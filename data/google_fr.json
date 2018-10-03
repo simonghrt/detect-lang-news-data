@@ -1,0 +1,262 @@
+[
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Damien Leloup",
+            "title": "Avant Google, comment faisait-on ?",
+            "description": "Vingt ans après son lancement, on oublierait presque à quel point les recherches en ligne relevaient du parcours du combattant avant l’émergence de Google.",
+            "url": "https://www.lemonde.fr/pixels/article/2018/09/04/avant-google-comment-faisait-on_5350028_4408996.html",
+            "urlToImage": "https://img.lemde.fr/2018/09/03/91/0/887/443/644/322/60/0/9249886_ANw2h88dLborPuGCLH1hGQWC.JPG",
+            "publishedAt": "2018-09-04T10:33:16Z",
+            "content": "Vingt ans après son lancement, on oublierait presque à quel point les recherches en ligne relevaient du parcours du combattant avant l’émergence de Google. Et avant, comment faisait-on ? La question peut sembler étrange, presque incongrue tant Google a effacé… [+6005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ideasynthesis.com"
+            },
+            "author": null,
+            "title": "Disable Google Chrome Sign in and Sync",
+            "description": "Comments",
+            "url": "https://blog.ideasynthesis.com/2018/09/24/Disable-Google-Chrome-Sign-In-and-Sync/",
+            "urlToImage": null,
+            "publishedAt": "2018-09-24T05:05:37Z",
+            "content": "As you might have heard, Chrome 69 automatically logs you into the browser when you log into any Google property. As much as I might like Chrome (and Google), I was quite displeased by this particular change: I assume it was in the release notes (that probabl… [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Setra",
+            "title": "Google lance une API pour Google Photos",
+            "description": "Les développeurs peuvent désormais utiliser l’API de Google Photos.",
+            "url": "https://www.presse-citron.net/google-lance-une-api-pour-google-photos/",
+            "urlToImage": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/09/Photo-sur-un-smartphone.jpg",
+            "publishedAt": "2018-09-12T12:44:50Z",
+            "content": "Les développeurs peuvent désormais utiliser l’API de Google Photos. Alors que Google s’apprête à lancer ses nouveaux smartphones, au mois d’octobre, il annonce aussi assez discrètement une nouvelle API pour Google Photos. Pour rappel, Photos est l’application… [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quora.com"
+            },
+            "author": null,
+            "title": "Why should I use DuckDuckGo instead of Google?",
+            "description": "Comments",
+            "url": "https://www.quora.com/Why-should-I-use-DuckDuckGo-instead-of-Google",
+            "urlToImage": null,
+            "publishedAt": "2018-09-17T14:25:11Z",
+            "content": "#1 — Google tracks you. We don’t. You share your most intimate secrets with your search engine without even thinking: medical, financial and personal issues, along with all the day to day things that make you, well, you. All of that personal information shoul… [+11525 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Google and Mastercard Cut Ad Deal to Track Retail Sales",
+            "description": "Comments",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bfb3e7e0-aca5-11e8-aa45-e707f296ab61&url=L25ld3MvYXJ0aWNsZXMvMjAxOC0wOC0zMC9nb29nbGUtYW5kLW1hc3RlcmNhcmQtY3V0LWEtc2VjcmV0LWFkLWRlYWwtdG8tdHJhY2stcmV0YWlsLXNhbGVz",
+            "urlToImage": null,
+            "publishedAt": "2018-08-30T21:56:41Z",
+            "content": "Your usage has been flagged as a violation of our terms of service. For inquiries related to this message please contact support. For sales inquiries, please visit http://www.bloomberg.com/professional/request-demo If you believe this to be in error, please c… [+280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youbroketheinternet.org"
+            },
+            "author": null,
+            "title": "Google can track surfing habits without need for HTTP Cookies",
+            "description": "Comments",
+            "url": "https://youbroketheinternet.org/trackedanyway.html",
+            "urlToImage": null,
+            "publishedAt": "2018-09-06T23:24:53Z",
+            "content": "Did you install EFF's brilliant Privacy Badger or any other smart HTTP Cookie management tool? Or did you simply pick the privacy preference in your browser that ignores all third-party cookies? Did many websites you visit annoy you with permission-to-use-coo… [+4802 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Show HN: Google Photos API (now fully available)",
+            "description": "Comments",
+            "url": "https://news.ycombinator.com/item?id=17956180",
+            "urlToImage": null,
+            "publishedAt": "2018-09-11T00:10:13Z",
+            "content": "Use the Google Photos API to build smarter photo and video features for your product. Developer site: https://developers.google.com/photos With the API you can help users transfer, share and bring their content into your app more easily (including features li… [+327 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Valentin Décarpentrie",
+            "title": "La reconnaissance musicale de Google s’améliore",
+            "description": "Depuis bientôt 2 ans, il est possible d'utiliser Google sur son smartphone pour rechercher le nom d'un titre que l'on écoute, à l'instar de Shazam. Aujourd'hui, la fonctionnalité s'améliore largement.",
+            "url": "https://www.presse-citron.net/reconnaissance-musicale-google-ameliore/",
+            "urlToImage": null,
+            "publishedAt": "2018-09-16T16:09:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Emmanuel Ghesquier",
+            "title": "Google Pay en France ? C’est pour bientôt",
+            "description": "L’application de paiement Google Pay devrait arriver d’ici la fin de l’année. Cela fait suite aux semi-échecs de Google Wallet et d’Android Pay, qui n’ont jamais vraiment obtenu une très grande popularité. Avec Google Pay, la firme de Mountain View espère ain…",
+            "url": "https://www.presse-citron.net/google-pay-en-france-cest-pour-bientot/",
+            "urlToImage": null,
+            "publishedAt": "2018-09-23T11:00:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Ask HN: Did anyone just get prompted by Google Chrome with a privacy form?",
+            "description": "Comments",
+            "url": "https://news.ycombinator.com/item?id=18055079",
+            "urlToImage": null,
+            "publishedAt": "2018-09-24T04:43:11Z",
+            "content": "Here's the screenshot[0] of the survey widget Google just sent me to. Did anyone else here just get a \"Privacy Checkup\" notification in Chrome for something like this? I think it happened when I opened a new tab. I was a bit upset to find out that Google igno… [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Ask HN: How do I choose between a job offer from Google and a promising startup?",
+            "description": "Comments",
+            "url": "https://news.ycombinator.com/item?id=17995053",
+            "urlToImage": null,
+            "publishedAt": "2018-09-15T17:14:33Z",
+            "content": "Disclaimer: I'm a founder of an early stage startup, so I'm biased. You need to figure out what your goals are. We can't answer for you because we don't know what you want. If your goal is just money (which is fine, don't be afraid to say this), then definite… [+1194 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ha.x0r.be"
+            },
+            "author": null,
+            "title": "Chrome is a Google Service that happens to include a Browser Engine",
+            "description": "Comments",
+            "url": "https://ha.x0r.be/posts/chrome-is-a-google-service/",
+            "urlToImage": null,
+            "publishedAt": "2018-09-22T18:54:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Setra",
+            "title": "Google démonte les nouvelles accusations de partialité de Donald Trump",
+            "description": "Donald Trump continue d’accuser Google de ne pas être impartial.",
+            "url": "https://www.presse-citron.net/google-demonte-les-nouvelles-accusations-de-partialite-de-donald-trump/",
+            "urlToImage": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/08/Le-moteur-de-recherche-de-Google.jpg",
+            "publishedAt": "2018-08-30T13:30:59Z",
+            "content": "Donald Trump continue d’accuser Google de ne pas être impartial. Après avoir défendu Google lorsqu’il a écopé d’une amende record dans l’UE, Donald Trump s’en prend désormais à la firme de Mountain View. Il y a quelques jours, le président des Etats-Unis accu… [+1755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journaldugeek.com"
+            },
+            "author": "Olivier",
+            "title": "Home Hub : le futur Smart Display de Google",
+            "description": "Pour se faire une place toujours plus importante dans les foyers, Google a mis au point la plateforme Smart Display : elle permet à des écrans connectés d'accéder aux principaux services du moteur de recherche, tout particulièrement son assistant. Si Lenovo e…",
+            "url": "https://www.journaldugeek.com/2018/09/23/home-hub-futur-smart-display-de-google/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2018/09/google-home-hub-leak-front1.jpg",
+            "publishedAt": "2018-09-23T07:00:22Z",
+            "content": "Pour se faire une place toujours plus importante dans les foyers, Google a mis au point la plateforme Smart Display : elle permet à des écrans connectés d’accéder aux principaux services du moteur de recherche, tout particulièrement son assistant. Si Lenovo e… [+1157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid.com"
+            },
+            "author": "Ulrich Rozier",
+            "title": "Donald Trump s’attaque à Google… et Google lui répond",
+            "description": "C’est un coup de gueule de Donald Trump envers Google. Le sujet du coup de gueule ? Les résultats du moteur de recherche lorsque l’on effectue des recherches sur le président des Etats-Unis. Comme à son habitude, Donald Trump a utilisé son compte Twitter pour…",
+            "url": "https://www.frandroid.com/marques/google/529089_donald-trump-sattaque-a-google-et-google-lui-repond",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2018/08/telechargement-2.jpg",
+            "publishedAt": "2018-08-28T19:34:33Z",
+            "content": "C’est un coup de gueule de Donald Trump envers Google. Le sujet du coup de gueule ? Les résultats du moteur de recherche lorsque l’on effectue des recherches sur le président des Etats-Unis. Comme à son habitude, Donald Trump a utilisé son compte Twitter pour… [+3268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Emmanuel Ghesquier",
+            "title": "Donald Trump accuse Google de censure",
+            "description": "Le président américain Donald Trump s'est emporté sur Twitter, accusant Google de censure et de désinformation. Il avance un chiffre de 96% de faux résultats le concernant, de fake news, de renvoies vers des sites de gauche, etc. Des accusations qui ont fait …",
+            "url": "https://www.presse-citron.net/donald-trump-accuse-google-de-censure/",
+            "urlToImage": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2017/12/trump.jpg",
+            "publishedAt": "2018-08-29T08:45:56Z",
+            "content": "Le président américain Donald Trump s’est emporté sur Twitter, accusant Google de censure et de désinformation. Il avance un chiffre de 96% de faux résultats le concernant, de fake news, de renvoies vers des sites de gauche, etc. Des accusations qui ont fait … [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Emmanuel Ghesquier",
+            "title": "La page Google Plus France est fermée",
+            "description": "\"Les oiseaux se cachent pour mourir\" titrait une vieille série des années 80. Il semblerait que ce soit aussi le cas de Google. L'antenne française du géant américaine a fermé presque incognito son compte sur son propre réseau social Google Plus.",
+            "url": "https://www.presse-citron.net/la-page-google-plus-france-est-fermee/",
+            "urlToImage": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/08/fermeture-Google-Plus-France.jpg",
+            "publishedAt": "2018-08-27T08:40:13Z",
+            "content": "« Les oiseaux se cachent pour mourir » titrait une vieille série des années 80. Il semblerait que ce soit aussi le cas de Google. L’antenne française du géant américaine a fermé presque incognito son compte sur son propre réseau social Google Plus. Une fermet… [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Emmanuel Ghesquier",
+            "title": "Google lutte contre la pornographie infantile",
+            "description": "C'est une maladie d'Internet. Un syndrome qui s'est sans doute développé à vitesse grand V en s'appuyant sur l'anonymat rendu possible par Internet, mais aussi grâce à la vitesse d'échange d'informations. La pédopornographie a connu un véritable essor avec le…",
+            "url": "https://www.presse-citron.net/google-lutte-contre-la-pornographie-infantile/",
+            "urlToImage": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/09/google.jpg",
+            "publishedAt": "2018-09-04T08:20:18Z",
+            "content": "C’est une maladie d’Internet. Un syndrome qui s’est sans doute développé à vitesse grand V en s’appuyant sur l’anonymat rendu possible par Internet, mais aussi grâce à la vitesse d’échange d’informations. La pédopornographie a connu un véritable essor avec le… [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron.net"
+            },
+            "author": "Setra",
+            "title": "Pixel 3 et Pixel 3 XL : Google donnerait rendez-vous le 9 octobre pour la présentation officielle",
+            "description": "Google présenterait ses nouveaux smartphones lors d’un événement à New York le 9 octobre.",
+            "url": "https://www.presse-citron.net/pixel-3-et-pixel-3-xl-google-donnerait-rendez-vous-le-9-octobre-pour-la-presentation-officielle/",
+            "urlToImage": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2018/08/Google-Pixel-3-XL-en-fuite.jpg",
+            "publishedAt": "2018-08-28T14:10:07Z",
+            "content": "Google présenterait ses nouveaux smartphones lors d’un événement à New York le 9 octobre. Après la présentation du Galaxy Note 9, les fans d’Android attendent avec impatience celle des Google Pixel 3 et Pixel 3 XL de la firme de Mountain View. En 2016, Google… [+1722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid.com"
+            },
+            "author": "Clément Grandjean",
+            "title": " Bon plan : le Google Home passe à 129 euros et le Google Home Mini à 49 euros",
+            "description": "Disponible habituellement à 59 euros et 149 euros, le Google Home Mini et le Google Home passent temporairement à 49 euros et 129 euros sur Cdiscount, fnac.com, Darty et Boulanger avec 3 mois d’abonnement Deezer Premium+ offerts. Le Google Home est une encein…",
+            "url": "https://www.frandroid.com/marques/google/492876_bon-plan-le-google-home-passe-a-129-euros-et-le-google-home-mini-a-49-euros?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Frandroid+%28FrAndroid%29",
+            "urlToImage": null,
+            "publishedAt": "2018-09-19T13:45:30Z",
+            "content": null
+        }
+    ]

@@ -1,0 +1,262 @@
+[
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Herbert Braun",
+            "title": "Chrome 69 loggt Nutzer automatisch ein",
+            "description": "Die aktuelle Chrome-Version verbindet Google-Account und Browser ohne\r\nZutun des Nutzers [--] alles halb so schlimm, sagt Google.",
+            "url": "https://www.heise.de/newsticker/meldung/Chrome-69-loggt-Nutzer-automatisch-ein-4171410.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/6/6/7/9/urn-newsml-dpa-com-20090101-140319-99-00983_large_4_3-678d3a518d5844a9.jpeg",
+            "publishedAt": "2018-09-24T13:12:20Z",
+            "content": "Eingeloggt oder doch nicht? Chrome 69 verbindet den Browser automatisch mit einem Google-Account, aber die Synchronisierung bedarf noch eines Mausklicks. Die Feier zum zehnten Geburtstag ging daneben. Das Jubiläums-Release Chrome 69 zieht heftige Kritik auf s… [+1721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Daniel Herbig",
+            "title": "Google Assistant funktioniert jetzt auch in Deutschland mit Android Auto",
+            "description": "Der Google Assistant ist auch in Deutschland für Android Auto verfügbar. Google kooperiert für Infotainment-Systeme außerdem mit Renault-Nissan-Mitsubishi.",
+            "url": "https://www.heise.de/newsticker/meldung/Google-Assistant-funktioniert-jetzt-auch-in-Deutschland-mit-Android-Auto-4167890.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/4/0/4/3/Google_Assistant_Google_Auto_07-99061f93c370023f.png",
+            "publishedAt": "2018-09-19T09:47:16Z",
+            "content": "Der Google Assistant funktioniert jetzt auch in Deutschland mit Android Auto. Google teilte in einem Blog-Eintrag mit, der Rollout der neuen Funktion sei nun gestartet. In den USA läuft der smarte Google-Assistent bereits seit Beginn des Jahres. Die Integrati… [+895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Daniel Herbig",
+            "title": "Gespeicherter Standortverlauf: Bundesregierung rügt Google",
+            "description": "Die irreführende Beschreibung des Standortverlaufs erodiert das Vertrauen in Dienste der digitalen Welt, schreibt Staatssekretär Gerd Billen an Google.",
+            "url": "https://www.heise.de/newsticker/meldung/Gespeicherter-Standortverlauf-Bundesregierung-ruegt-Google-4147018.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/8/9/6/6/2/urn-newsml-dpa-com-20090101-180724-99-270427_large_4_3-03b999ae0d9d71ff.jpeg",
+            "publishedAt": "2018-08-28T10:08:24Z",
+            "content": "Das Bundesjustizministerium kritisiert Googles Datenschutzpraxis in einem Brief an Sundar Pichai, den CEO des Tech-Unternehmens. Es geht um irreführende Beschreibungen in den Einstellungen zum Standortverlauf im Google-Account. Die Nachrichtenagentur AP hatte… [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Christof Windeck",
+            "title": "Google erklärt Chromebook-Sicherheits-Chip H1",
+            "description": "In Chromebooks ersetzt und erweitert Googles Titan H1 alias Cr50 die Funktionen eines Trusted Platform Module (TPM) - etwa auch für alternative Firmware.",
+            "url": "https://www.heise.de/newsticker/meldung/Google-erklaert-Chromebook-Sicherheitschip-H1-4166643.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/3/0/2/0/Google-H1-dcfa794f97d1d305.jpeg",
+            "publishedAt": "2018-09-17T15:44:00Z",
+            "content": "Google verlässt sich nicht länger auf standardisierte Trusted Platform Modules (TPMs), sondern hat bereits Anfang 2017 angekündigt, eigene Sicherheits-Chips namens Titan zu entwickeln. Die kamen zuerst in den hauseigenen Cloud-Servern zum Einsatz. Die Variant… [+3836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Herbert Braun",
+            "title": "AMP nabelt sich von Google ab",
+            "description": "Code-Review durch ein technisches Komitee, Pläne für eine Stiftung und das Microsoft-Engagement sollen das AMP-Projekt in Richtung offenes Web steuern.",
+            "url": "https://www.heise.de/newsticker/meldung/AMP-nabelt-sich-von-Google-ab-4168967.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/4/8/4/0/amp-logo-ac9348a3a3adb604.jpeg",
+            "publishedAt": "2018-09-20T12:04:54Z",
+            "content": "Das Web-Framework AMP (Accelerated Mobile Pages) wird unabhängiger von seinem Schöpfer Google. So will künftig nicht mehr der Google-Angestellte Malte Ubl jeden Beitrag zu dem Open-Source-Projekt überprüfen, sondern diese Aufgabe einem Komitee übertragen. Lau… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Daniel Berger",
+            "title": "Google stellt Gmail-Client Inbox ein",
+            "description": "Der alternative Gmail-Client Inbox begeisterte mit innovativen Funktionen. Nun hat Google aber das Ende von Inbox angekündigt.",
+            "url": "https://www.heise.de/newsticker/meldung/Google-stellt-Gmail-Client-Inbox-ein-4163704.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/0/7/7/9/google-stellt-inbox-ein-3185815821915a60.jpeg",
+            "publishedAt": "2018-09-13T09:45:00Z",
+            "content": "Experiment beendet: Google stellt seinen alternativen Gmail-Assistenten Inbox ein. Der Support soll Ende März 2019 auslaufen, kündigte Google an und betonte, dass Inbox die E-Mail verbessert habe. Der Dienst verwaltet Gmail-Konten und bietet zahlreiche Funkti… [+1467 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Björn Bohn",
+            "title": "Google Code-In sucht Open-Source-Organisationen",
+            "description": "Anbieter von Open Source sind jetzt dazu aufgerufen, sich an Googles Programmierwettbewerb für Jugendliche zu beteiligen.",
+            "url": "https://www.heise.de/developer/meldung/Google-Code-In-sucht-Open-Source-Organisationen-4157025.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/6/3/8/9/hb-aca5eaf07fd5af9e.jpeg",
+            "publishedAt": "2018-09-07T07:58:30Z",
+            "content": "Google Code-in geht in die nächste Runde und akzeptiert nun Bewerbungen von Open-Source-Unternehmen, die an dem Projekt teilnehmen wollen. Im letzten Jahr haben 25 Organisationen den Wettbewerb unterstützt – davon 9 zum ersten Mal. In den vergangenen acht Jah… [+1057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Oliver Bünte",
+            "title": "Trump beschuldigt Google der politischen Parteilichkeit",
+            "description": "US-Präsident Donald Trump schießt sich auf Google ein und wirft dem Unternehmen politische Parteilichkeit vor. Ein Video soll das beweisen.",
+            "url": "https://www.heise.de/newsticker/meldung/Trump-beschuldigt-Google-der-politischen-Parteilichkeit-4150800.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/1/9/0/6/Trump-0c3db9c1c87ac8d7.jpeg",
+            "publishedAt": "2018-08-30T10:54:41Z",
+            "content": "Bereits am Dienstag hatte US-Präsident Donald Trump Google, Facebook und Twitter vorgeworfen, konservative politische Stimmen zu unterdrücken. Google hatte er mit Konsequenzen gedroht. Der US-Konzern hat daraufhin die Anschuldigungen, die Ergebnisse seiner Su… [+4400 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Denise Bergert",
+            "title": "Google-KI spürt Bilder von Kindesmissbrauch auf",
+            "description": "Mit einer kostenlosen Content-API will Google helfen, Darstellungen von sexuellem Kindesmissbrauch schneller und effektiver aufzuspüren.",
+            "url": "https://www.heise.de/newsticker/meldung/Google-KI-spuert-Bilder-von-Kindesmissbrauch-auf-4154863.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/4/8/0/9/internet-porn-29e05738a0e31082.png",
+            "publishedAt": "2018-09-04T13:48:48Z",
+            "content": "Google stellt eine neue KI zur Erkennung von Darstellungen von sexuellem Kindesmissbrauch zur Verfügung. Diese neue Content Safety API kann von Nichtregierungsorganisationen und Partner-Unternehmen kostenlos genutzt werden. Die künstliche Intelligenz der Cont… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Rainald Menge-Sonnentag",
+            "title": "Maschinenlernen: Google veröffentlicht Framework für Reinforcement Learning",
+            "description": "Das RL-Framework mit dem Namen Dopamine baut auf TensorFlow auf und soll gut reproduzierbare Ergebnisse liefern.",
+            "url": "https://www.heise.de/developer/meldung/Maschinenlernen-Google-veroeffentlicht-Framework-fuer-Reinforcement-Learning-4146787.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/8/9/4/8/4/ml-diagramme-667054591ba67699.jpeg",
+            "publishedAt": "2018-08-28T06:04:57Z",
+            "content": "Das Google Brain Team hat ein neues Machine-Learning-Framework mit dem Namen Dopamine veröffentlicht, das auf das ebenfalls aus dem Hause Google stammende TensorFlow aufsetzt. Dass es den Namen des Glückshormons trägt, dürfte kein Zufall sein, denn das Framew… [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Matthias Parbel",
+            "title": "Google legt Kryptografie-Library Tink 1.2.0 vor",
+            "description": "Die Open-Source-Software bietet Entwicklern plattform- und sprachübergreifende kryptografische APIs, in der neuen Version auch für Android, iOS und die Cloud.",
+            "url": "https://www.heise.de/newsticker/meldung/Google-legt-Kryptografie-Library-Tink-1-2-0-vor-4152430.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/3/0/4/3/login-1203603_1280__1_-06d131110c89796e.png",
+            "publishedAt": "2018-08-31T12:39:39Z",
+            "content": "Nach rund zweijähriger Entwicklungszeit hat Google die Kryptografie-Library Tink 1.2.0 fertiggestellt. Intern nutzt der Konzern Tink bereits zur Absicherung sensibler Daten in verschiedenen Anwendungen und Diensten, darunter AdMob, Google Pay, Firebase, Googl… [+1878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Fabian A. Scherschel",
+            "title": "Google: Sicherheitslücke in den Türschlössern des Firmensitzes",
+            "description": "Die iStar-Ultra-Türschlösser in Googles Gebäuden in Sunnyvale waren kein Hindernis für Angreifer mit Zugang zum internen Netz.",
+            "url": "https://www.heise.de/security/meldung/Google-Sicherheitsluecke-in-den-Tuerschloessern-des-Firmensitzes-4154820.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/4/7/8/4/urn-newsml-dpa-com-20090101-180207-99-976987_large_4_3-15262c3e4b77158b.jpeg",
+            "publishedAt": "2018-09-04T14:47:00Z",
+            "content": "Die smarten Türschlösser von Googles Gebäuden in Sunnyvale, unweit der Firmenzentrale, haben eine ziemlich gravierende Sicherheitslücke. (Bild: dpa, Marcio Jose Sanchez/AP/dpa) Die iStar-Ultra-Türschlösser in Googles Gebäuden in Sunnyvale waren kein Hindernis… [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Stefan Krempl",
+            "title": "#HateSearch: Neue Kritik an Autovervollständigung bei Google",
+            "description": "Eine Hamburger Nichtregierungsorganisation unterstellt Google anhand einer Studie schwere strukturelle Fehler bei der Funktion \"Autovervollständigung\".",
+            "url": "https://www.heise.de/newsticker/meldung/HateSearch-Neue-Kritik-an-Autovervollstaendigung-bei-Google-4156923.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/6/2/9/7/Unbenannt-4-5bdad138414c4d50.jpeg",
+            "publishedAt": "2018-09-06T16:27:35Z",
+            "content": "Automatische Ergänzungsvorschläge für die Google-Suche sorgen weiter für Unmut. Laut einer Studie, die die zivilgesellschaftliche Organisation Goliathwatch veröffentlicht hat, weist die entsprechende \"Autocomplete\"-Funktion gravierende strukturelle Fehler auf… [+2027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Olivia von Westernhagen",
+            "title": "Android Patchday: Google beseitigt kritische Schwachstellen",
+            "description": "Googles Android Security Bulletin für September nennt zahlreiche Sicherheitsprobleme, die mit Patch-Level 2018-09-01 behoben wurden.",
+            "url": "https://www.heise.de/security/meldung/Android-Patchday-Google-beseitigt-kritische-Schwachstellen-4157569.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/6/7/2/0/android-327791_1280-bd0658a2dc9d94a7.jpeg",
+            "publishedAt": "2018-09-07T14:36:00Z",
+            "content": "(Bild: JordiMorella ) Googles Android Security Bulletin für September nennt zahlreiche Sicherheitsprobleme, die mit Patch-Level 2018-09-01 behoben wurden. Auch im September hat Google im Rahmen des regulären Patchdays wieder eine ganze Reihe von Schwachstelle… [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Markus Montz",
+            "title": "Leistungsschutzrecht: Verleger fordern weiter Millionen von Google",
+            "description": "Die deutschen Presse-Verleger fordern von Google weiter eine Vergütung für Snippets. Sie rechnen aber mit einer langen juristischen Auseinandersetzung.",
+            "url": "https://www.heise.de/newsticker/meldung/Leistungsschutzrecht-Verleger-fordern-weiter-Millionen-von-Google-4154749.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/4/7/3/7/google-news-vbr-800-20b58f0131ac8d80-aaec5c39bb125bad.jpeg",
+            "publishedAt": "2018-09-04T13:19:51Z",
+            "content": "Fünf Jahre nach dem Inkrafttreten des deutschen Leistungsschutzrechts für Presseverlage (LSR) rechnen namhafte Verleger weiterhin mit signifikanten Zahlungen von großen Internetkonzernen. \"Beim Rechtsstreit mit Google haben wir uns auf eine grundsätzliche Aus… [+3685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Rainald Menge-Sonnentag",
+            "title": "Machine Learning: Google erweiterte die Cloud-Sprachdienste",
+            "description": "Cloud Text-to-Speech ist nun allgemein verfügbar, und Cloud Speech-to-Text unterscheidet einzelne Sprecher.",
+            "url": "https://www.heise.de/developer/meldung/Machine-Learning-Google-erweiterte-die-Cloud-Sprachdienste-4148573.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/0/6/1/9/megaphon-9b009d81807ef499.jpeg",
+            "publishedAt": "2018-08-29T08:12:41Z",
+            "content": "Google hat seine Cloud-Angebote zur Spracherkennung und -synthese erweitert. So ist Cloud Text-to-Speech nach einer knapp fünfmonatigen Betaphase nun allgemein verfügbar. Außerdem hat der Internetriese neue Sprecherprofile hinzugefügt und die Zahl der verfügb… [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "Anonym surfen: Tor Browser für Android ist da",
+            "description": "Der anonymisierende Tor Browser steht ab sofort in Google Play zum Download bereit.",
+            "url": "https://www.heise.de/security/meldung/Anonym-surfen-Tor-Browser-fuer-Android-ist-da-4166511.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/2/9/1/5/tba2_1x-7d3994e9e94aa62e.png",
+            "publishedAt": "2018-09-17T12:57:08Z",
+            "content": "(Bild: Tor Project ) Der anonymisierende Tor Browser steht ab sofort in Google Play zum Download bereit. Besitzer eines Android-Smartphones oder -Tablets, die viel Wert auf Anonymität und Privatsphäre beim surfen legen, können sich nun den Tor Browser auf ihr… [+1708 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "Judith Horchert",
+            "title": "Google-Quiz: \"Ist Angela Merkel schwanger?\"",
+            "description": "Man wird ja wohl noch fragen dürfen! Wer etwas bei Google sucht, sieht anhand der Vorschläge, wonach Nutzer häufig suchen. Haben Sie eine Idee davon, was die anderen googeln? Machen Sie das Quiz.",
+            "url": "http://www.spiegel.de/netzwelt/web/quiz-zu-googles-autovervollstaendigung-ist-angela-merkel-schwanger-a-1225565.html",
+            "urlToImage": "http://cdn3.spiegel.de/images/image-1332866-860_poster_16x9-gmyd-1332866.jpg",
+            "publishedAt": "2018-08-31T10:44:46Z",
+            "content": "Für Eilige: Hier geht es direkt zum Quiz. Das Unternehmen Google wird Anfang September 20 Jahre alt - die Suchmaschine ist unter diesem Namen sogar schon ein Jahr länger online. Heute ist sie für viele Nutzer der erste Ansprechpartner im Netz: Gefragt wird, w… [+817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Daniel Herbig",
+            "title": "IFA: Google Assistant versteht jetzt zwei Sprachen gleichzeitig",
+            "description": "Der Google Assistant wird bilingual. Das soll vor allem zweisprachigen Haushalten zugutekommen.",
+            "url": "https://www.heise.de/newsticker/meldung/Google-Assistant-versteht-jetzt-zwei-Sprachen-gleichzeitig-4152067.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/2/7/5/2/urn-newsml-dpa-com-20090101-171011-99-403713_large_4_3-795d99e2471bb09a.jpeg",
+            "publishedAt": "2018-08-31T07:16:26Z",
+            "content": "Google hat seiner sprechenden Assistenzsoftware als erster Anbieter beigebracht, zwei Sprachen gleichzeitig zu verstehen. Bisher musste der Google Assistant – genauso wie Alexa von Amazon oder Siri von Apple – auf eine bestimmte Sprache eingestellt werden. Je… [+1102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Martin Holland",
+            "title": "Recht auf Vergessen: Google setzt sich in einem Streit durch",
+            "description": "Es darf Google nicht generell untersagt werden, schon ältere negative Berichte zutage zu fördern, sagt das Oberlandesgericht Frankfurt.",
+            "url": "https://www.heise.de/newsticker/meldung/Recht-auf-Vergessen-Google-setzt-sich-in-einem-Streit-durch-4164570.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/1/3/4/5/pexels-photo-218717-cd5a8db276097250.jpeg",
+            "publishedAt": "2018-09-13T14:57:00Z",
+            "content": "Im Streit um das \"Recht auf Vergessen\" bei Internetsuchen hat das Oberlandesgericht Frankfurt in einem konkreten Fall zugunsten von Google entschieden. Die Berufung eines ehemaligen Geschäftsführers einer gemeinnützigen Organisation hatte keinen Erfolg, wie d… [+1259 chars]"
+        }
+    ]

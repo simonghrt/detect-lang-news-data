@@ -1,0 +1,262 @@
+[
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Google is discontinuing Inbox",
+            "description": "Google launched Inbox in 2014 as a sort of incubator for new approaches to email, but it hasn't been quite so novel in the wake of steady Gmail upgrades, including April's big redesign. Appropriately, the company is sunsetting Inbox at the end of March 2019. …",
+            "url": "https://www.engadget.com/2018/09/12/google-is-discontinuing-inbox/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1280%252C720%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252Fde4aea13c1da4e65423ed632a82959a2%252F204181822%252Fq-100.jpeg%26client%3Da1acac3e1b3290917d92%26signature%3Dd9604fb1e86dc9032bef0d1765c1dce9b4a40ebd&client=amp-blogside-v2&signature=691029bc31ade8e8068c0a551f11e91d0e7315d1",
+            "publishedAt": "2018-09-12T20:05:00Z",
+            "content": "You probably won't have too much trouble weaning yourself off Inbox if you're a loyal user. Inbox-first features like Smart Reply, Smart Compose and Follow-ups are already present in Gmail. Outside of a brief retraining period, you might not lose any major fu… [+516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Brendan Hesse",
+            "title": "What to Know About the New Wear OS Smartwatch Gestures from Google",
+            "description": "If you like a little Google on your wrist, it’s time to start obsessively checking for software updates. According to Google, Wear OS users are getting a big update within the next month that will add (and change) gesture controls on your smartwatch, beef up …",
+            "url": "https://lifehacker.com/what-to-know-about-the-new-wear-os-smartwatch-gestures-1828693375",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--rF7ClDR7--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/svehvtyaa1swplpl6w24.png",
+            "publishedAt": "2018-08-30T15:30:00Z",
+            "content": "If you like a little Google on your wrist, it’s time to start obsessively checking for software updates. According to Google, Wear OS users are getting a big update within the next month that will add (and change) gesture controls on your smartwatch, beef up … [+3201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Brendan Hesse",
+            "title": "How to Turn Off the Auto Sign-Out Link in Gmail and Chrome",
+            "description": "You may have noticed that the most recent Chrome browser update includes a change to the way Chrome syncs—or, more accurately, doesn’t sync—to your Google account. Specifically, if you sign into or out of Gmail, your Google account will be signed into or out …",
+            "url": "https://lifehacker.com/how-to-turn-off-the-auto-sign-out-link-in-gmail-and-chr-1828953840",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--zLtxefgh--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/mdlnoki11p6yu9x4dujs.jpg",
+            "publishedAt": "2018-09-11T15:30:00Z",
+            "content": "You may have noticed that the most recent Chrome browser update includes a change to the way Chrome syncs—or, more accurately, doesn’t sync—to your Google account. Specifically, if you sign into or out of Gmail, your Google account will be signed into or out … [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Emily Price",
+            "title": "How to Make Your Google Home Bilingual",
+            "description": "This weekend Google announced plans to bring support for 22 new languages to Google Home by the end of the year. That number adds to the languages the smart assistant already supports. Read more...",
+            "url": "https://lifehacker.com/how-to-make-your-google-home-bilingual-1828792153",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--XfB037WH--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/dqogwq9aenjutjqresnu.jpg",
+            "publishedAt": "2018-09-03T23:03:00Z",
+            "content": "This weekend Google announced plans to bring support for 22 new languages to Google Home by the end of the year. That number adds to the languages the smart assistant already supports. Google has some buenas noticias for Spanish speakers who own Google Home s… [+640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "David Murphy",
+            "title": "The Best Ways to Use Google Maps With Apple's CarPlay",
+            "description": "The world might feel like a mess right now, depending on your technological, financial, or political interests, but there’s one thing I think we can all get universally excited about. Google Maps has finally come to CarPlay. Read more...",
+            "url": "https://lifehacker.com/the-best-ways-to-use-google-maps-with-apples-carplay-1829173067",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--BOhm6LjB--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/jpt6xm7oxt90hk0unugm.jpg",
+            "publishedAt": "2018-09-19T18:00:00Z",
+            "content": "The world might feel like a mess right now, depending on your technological, financial, or political interests, but there’s one thing I think we can all get universally excited about. Google Maps has finally come to CarPlay. I honestly never thought I’d see t… [+6253 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jordan Crook",
+            "title": "Instacart brings on Mark Schaaf as Chief Technology Officer",
+            "description": "Instacart has brought on Mark Schaaf as Chief Technology Officer. Schaaf previously held positions at AdMob, which was acquired by Google in 2009 for $750 million. From there, he went on to build and lead a team at Google within the mobile display ad business…",
+            "url": "http://techcrunch.com/2018/09/11/instacart-brings-on-mark-schaaf-as-chief-technology-officer/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-9.27.56-AM.png?w=696",
+            "publishedAt": "2018-09-11T14:00:42Z",
+            "content": "Instacart has brought on Mark Schaaf as Chief Technology Officer. Schaaf previously held positions at AdMob, which was acquired by Google in 2009 for $750 million. From there, he went on to build and lead a team at Google within the mobile display ad business… [+1551 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Matney",
+            "title": "Here’s what Google’s $149 Home Hub smart display will reportedly look like",
+            "description": "Google is reportedly getting ready to launch some new hardware at its October 9 hardware event and we just learned a lot more about a new product that might be launching. It was rumored that Google was working on its own Smart Display, now we’ve got images of…",
+            "url": "http://techcrunch.com/2018/09/18/heres-what-googles-149-home-hub-smart-display-will-reportedly-look-like/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-1.02.53-PM.png?w=713",
+            "publishedAt": "2018-09-18T20:07:01Z",
+            "content": "Google is reportedly getting ready to launch some new hardware at its October 9 hardware event and we just learned a lot more about a new product that might be launching. It was rumored that Google was working on its own Smart Display, now we’ve got images of… [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mallory Locklear",
+            "title": "Google removes accounts tied to Iran-led misinformation campaign",
+            "description": "Google shared an update today regarding its efforts to combat state-sponsored phishing attacks and to remove accounts associated with an influence operation linked to Iran. The company said that in recent months, it has detected and blocked state-sponsored gr…",
+            "url": "https://www.engadget.com/2018/08/23/google-removes-accounts-iran-misinformation-campaign/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3216%252C2136%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1063%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252Fbf64345091aa6e1f60170dcd322e8b40%252F205966926%252Fthe-youtube-logo-is-seen-in-this-photo-illustration-on-december-1-picture-id883899918%26client%3Da1acac3e1b3290917d92%26signature%3Df4f20ee0a43c328f146b007b5f7d447f7fd8a493&client=amp-blogside-v2&signature=839e1feec2db87faf59e8e8cfbb3bd5c1eaab9a4",
+            "publishedAt": "2018-08-23T18:54:00Z",
+            "content": "Google has also been working with the cybersecurity group FireEye, which has been providing Google with information on an Iran-based misinformation operation. FireEye identified three email accounts, three YouTube channels and three Google+ accounts linked to… [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Initial 'Fortnite' Android installer let hackers install malware",
+            "description": "When Epic said it would skip the Google Play Store with Fortnite 's Android release, it raised eyebrows among security experts. Wasn't it creating risks by encouraging gamers (some of whom didn't understand the potential dangers) to install non-Store apps? We…",
+            "url": "https://www.engadget.com/2018/08/26/fortnite-android-installer-let-attackers-install-anything/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ffa8ad41c127baccb02c28f821192fe14%2F206619059%2Ffortnite-android-installer.jpg&client=amp-blogside-v2&signature=a327376a2a1735b2cbf2515f0e2cfcb3edc23ca6",
+            "publishedAt": "2018-08-26T16:31:00Z",
+            "content": "Attackers first had to trick you into installing an app designed to look for the flaw, which might not have been difficult when players could be hunting for cheats and \"free V-Bux\" apps. If present, the app hijacked the install process to grab its own code wi… [+1005 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "The Google Assistant is now bilingual",
+            "description": "The Google Assistant just got more useful for multilingual families. Starting today, you’ll be able to set up two languages in the Google Home app and the Assistant on your phone and Google Home will then happily react to your commands in both English and Spa…",
+            "url": "http://techcrunch.com/2018/08/30/the-google-assistant-is-now-bilingual/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/10/google-home-mini1.jpg?w=608",
+            "publishedAt": "2018-08-30T17:00:49Z",
+            "content": "The Google Assistant just got more useful for multilingual families. Starting today, you’ll be able to set up two languages in the Google Home app and the Assistant on your phone and Google Home will then happily react to your commands in both English and Spa… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nick Statt",
+            "title": "Trump’s latest misleading attack on Google, explained",
+            "description": "President Donald Trump intensified his criticism of Google today, posting a native video of unknown origin to his Twitter account this afternoon claiming the search giant stopped promoting the State of the Union (SOTU) address on its homepage when he took off…",
+            "url": "https://www.theverge.com/2018/8/29/17798118/president-donald-trump-google-state-of-the-union-address-liberal-bias",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/7y5zRKccaQ1I9H4bXe8gqSLsHXk=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12746813/1025078770.jpg.jpg",
+            "publishedAt": "2018-08-29T23:01:02Z",
+            "content": "President Donald Trump intensified his criticism of Google today, posting a native video of unknown origin to his Twitter account this afternoon claiming the search giant stopped promoting the State of the Union (SOTU) address on its homepage after he took of… [+2365 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mallory Locklear",
+            "title": "Google responds to lawmaker concerns over Gmail scanning",
+            "description": "In July, Senators John Thune (R-SD), Roger Wicker (R-MS) and Jerry Moran (R-KS) sent Google a letter that sought information on Google's practice of allowing third-party app developers access to its users' emails. While Google stopped scanning Gmail messages …",
+            "url": "https://www.engadget.com/2018/09/20/google-lawmaker-concerns-gmail-scanning/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3969%252C2636%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1063%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F970c36a4ef8e18fc4313b8675ff87efc%252F206681181%252Fthe-google-gmail-mailing-app-is-seen-on-an-android-portable-device-on-picture-id914593224%26client%3Da1acac3e1b3290917d92%26signature%3D6578358895f7cebf6287bce90dd27241d50aa361&client=amp-blogside-v2&signature=43098adbb04acf53683f257c0f437c76122856a2",
+            "publishedAt": "2018-09-20T19:14:00Z",
+            "content": "In it, Susan Molinari, Google's VP of public policy and government affairs, confirmed that Google does allow third parties to access Gmail data, a practice the company described in a blog post earlier this year. \"Before a developer can access a Gmail user's d… [+1137 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "Google launches new AI initiatives in Japan",
+            "description": "It’s no surprise that Google used its Cloud Next 2018 event in Tokyo today — one of a number of international Cloud Next events that follow its flagship San Francisco conference — to announce a couple of new initiatives that specifically focus on the Japanese…",
+            "url": "http://techcrunch.com/2018/09/18/google-launches-new-ai-initiatives-in-japan/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-954857508.jpg?w=619",
+            "publishedAt": "2018-09-19T00:00:02Z",
+            "content": "It’s no surprise that Google used its Cloud Next 2018 event in Tokyo today — one of a number of international Cloud Next events that follow its flagship San Francisco conference — to announce a couple of new initiatives that specifically focus on the Japanese… [+1546 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Timothy J. Seppala",
+            "title": "Google and Samsung partner to take next-gen texting mainstream",
+            "description": "Google is teaming with what's arguably the biggest Android phone maker to help push its new text-messaging standard to the masses. \"Working together, Google and Samsung will ensure that our messaging clients, Android Messages and Samsung Messages, work seamle…",
+            "url": "https://www.engadget.com/2018/09/12/google-samsung-rcs-texting/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2400%252C1523%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1015%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F44df3acad8a05e0e3fb0a499dc90da8b%252F205173509%252F_MG_2007.jpg%26client%3Da1acac3e1b3290917d92%26signature%3Da40a59297cc4b1ee2d631e5c5e7e9559ea673521&client=amp-blogside-v2&signature=9395b5a685362d58b8730ced9050da49425f5bf8",
+            "publishedAt": "2018-09-12T20:47:00Z",
+            "content": "The post goes on to say that new Galaxy phones will natively support RCS, \"starting with a set of carriers that have or will soon launch RCS.\" So, at the moment, Sprint and T-Mobile here in the US and Rogers in the Great White North. The unspoken promise is t… [+435 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Google brings its AI song recognition to Sound Search",
+            "description": "Google's Now Playing song recognition was clever when it premiered late in 2017, but it had its limits. When it premiered on the Pixel 2, for instance, its on-device database could only recognize a relatively small number of songs. Now, however, that same tec…",
+            "url": "https://www.engadget.com/2018/09/15/google-now-playing-in-sound-search/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F79469a58b8b5a5fe2789e699464c0340%2F206667715%2Fmg-4181-1.jpg&client=amp-blogside-v2&signature=3e99c2e20a6c8b4fd57e15883becd2c41b2490a0",
+            "publishedAt": "2018-09-15T23:29:00Z",
+            "content": "As everything is taking place on servers rather than your phone, Google isn't facing constraints on processing power or storage with Sound Search. It's combing through roughly 1,000 times as many songs, and is using a neural network four times larger. It also… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Google offers AI toolkit to report child sex abuse images",
+            "description": "Numerous organizations have taken on the noble task of reporting pedophilic images, but it's both technically difficult and emotionally challenging to review vast amounts of the horrific content. Google is promising to make this process easier. It's launching…",
+            "url": "https://www.engadget.com/2018/09/03/google-ai-tool-detects-child-sex-abuse-images/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%252C2667%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F7edb825e7d7b91e92f48f31b47b5f5a4%252F206637828%252Fpedestrian-walks-past-signage-at-google-inc-headquarters-in-mountain-picture-id951945090%26client%3Da1acac3e1b3290917d92%26signature%3D814aac698f6f00e4e6c6d03439fbdc81301e31d9&client=amp-blogside-v2&signature=8f07b2ef27f6f4e1b19fb935c40b9269b463147c",
+            "publishedAt": "2018-09-03T04:00:00Z",
+            "content": "Unlike the conventional approach, which simply compares image hashes against known offending images, the AI method can also flag previously undiscovered material. That, in turn, could help authorities catch active offenders and prevent further abuse. The tool… [+319 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Facebook invites Google, Twitter and others to discuss election meddling",
+            "description": "Facebook has called its fellow tech giants for a meeting to talk about their plans to prevent foreign influence and disinformation campaigns this upcoming midterm elections, according to BuzzFeed News. The publication says it got its hands on an email from th…",
+            "url": "https://www.engadget.com/2018/08/24/facebook-google-twitter-election-security/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2000%252C1248%252C0%252C61%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F32f12a6d32103b8182d1a855f82c9f5e%252F206287405%252Fmark-zuckerberg-silla-congreso.jpg%26client%3Da1acac3e1b3290917d92%26signature%3Df18f4394753998e13680f25b17ee12e3cc164049&client=amp-blogside-v2&signature=4fc830905309cf3028334af6d6ddd6fbaceda410",
+            "publishedAt": "2018-08-24T13:14:00Z",
+            "content": "\"As I've mentioned to several of you over the last few weeks, we have been looking to schedule a follow-on discussion to our industry conversation about information operations, election protection, and the work we are all doing to tackle these challenges.\" Th… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "Google updates its speech services for developers",
+            "description": "Google Cloud’s Text-to-Speech and Speech-to-Text APIs are getting a bunch of updates today that introduce support for more languages, make it easier to hear auto-generated voices on different speakers and that promise better transcripts thanks to improved too…",
+            "url": "http://techcrunch.com/2018/08/28/google-updates-its-speech-services-for-developers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-667778357.jpg?w=600",
+            "publishedAt": "2018-08-28T16:01:07Z",
+            "content": "Google Cloud’s Text-to-Speech and Speech-to-Text APIs are getting a bunch of updates today that introduce support for more languages, make it easier to hear auto-generated voices on different speakers and that promise better transcripts thanks to improved too… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "Google refutes Trump accusation over State of the Union links",
+            "description": "After earlier tweeting, deleting and re-posting unsupported claims that Google is \"suppressing voices of Conservatives,\" this afternoon the President's personal Twitter account posted a new attack video. It claimed that the company failed to promote his State…",
+            "url": "https://www.engadget.com/2018/08/29/google-trump-sotu/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fa3f4e0c3e2585a8d8812734ffa71f2af%2F206628703%2Ftrump-googlecom.jpg&client=amp-blogside-v2&signature=04acba25f34e7522f7ff0e2d1340a7579819499f",
+            "publishedAt": "2018-08-30T02:50:00Z",
+            "content": "After earlier tweeting, deleting and re-posting unsupported claims that Google is \"suppressing voices of Conservatives,\" this afternoon the President's personal Twitter account posted a new attack video. It claimed that the company failed to promote his State… [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Trump rage-tweets Google alleging search ‘bias’",
+            "description": "While several tech giants have found themselves in President Trump’s crosshairs since he took office, he has just unleashed what looks to be his most sustained attack on Google to date — firing off a couple of tweets at ~5.30am Washington DC time to rail agai…",
+            "url": "http://techcrunch.com/2018/08/28/trump-rage-tweets-google-alleging-search-bias/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-691376498.jpg?w=600",
+            "publishedAt": "2018-08-28T12:48:33Z",
+            "content": "While several tech giants have found themselves in President Trump’s crosshairs since he took office, he has just unleashed what looks to be his most sustained attack on Google to date — firing off a couple of tweets at ~5.30am Washington DC time to rail agai… [+6256 chars]"
+        }
+    ]

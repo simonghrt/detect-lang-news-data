@@ -1,0 +1,1302 @@
+[
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Jetzt updaten: Bitcoin Core fixt DoS-Bug",
+            "description": "Ein speziell präparierter Block hätte den Bitcoin-Client Core abstürzen lassen können. Ein neue Version der Software behebt den Bug.",
+            "url": "https://www.heise.de/newsticker/meldung/Jetzt-updaten-Bitcoin-Core-fixt-DoS-Bug-4169117.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/4/9/5/0/urn-newsml-dpa-com-20090101-180213-99-55040_large_4_3-4298c0a908c12fe1.jpeg",
+            "publishedAt": "2018-09-20T15:02:38Z",
+            "content": "Nutzer des Bitcoin-Referenz-Clients Core sollten unverzüglich auf die am Dienstag bereitgestellte Version 0.16.3 updaten. Mit der neuen Version wird ein Bug ausgebügelt, bei dem eine bestimmte Art von Block zum Absturz der Software geführt hätte. Konkret wäre… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "John McAfees \"unhackbares\" Bitcoin-Wallet Bitfi gehackt – mehrmals",
+            "description": "Zum wiederholten Male haben Sicherheitsforscher eigentlich geheime Passphrasen aus dem Bitcoin-Wallet Bitfi asugelesen.",
+            "url": "https://www.heise.de/security/meldung/John-McAfees-unhackbares-Bitcoin-Wallet-Bitfi-gehackt-mehrmals-4152116.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/2/7/7/5/WorldSpectrum-c19387fab0985e72.jpeg",
+            "publishedAt": "2018-08-31T09:23:57Z",
+            "content": "(Bild: WorldSpectrum) Zum wiederholten Male haben Sicherheitsforscher eigentlich geheime Passphrasen aus dem Bitcoin-Wallet Bitfi asugelesen. Dem Hersteller zufolge ist das auf Android basierende Bitcoin-Wallet Bitfi \"unhackbar\". Dass das nicht stimmt, haben … [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Bitcoin: Bug in Core-Software ist deutlich schwerwiegender",
+            "description": "Ein kürzlich gefixter Bug in der Bitcoin-Software Core hätte nicht nur DoS-Angriffe ermöglicht, sondern unter bestimmten Bedingungen auch einen Double Spend.",
+            "url": "https://www.heise.de/newsticker/meldung/Bitcoin-Bug-in-Core-Software-ist-deutlich-schwerwiegender-4170818.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/6/2/1/1/urn-newsml-dpa-com-20090101-180314-99-474757_large_4_3-3fe856567102c31a.jpeg",
+            "publishedAt": "2018-09-23T12:49:00Z",
+            "content": "Die in dieser Woche gepatchte Lücke im Bitcoin-Referenzclient Core ist offenbar noch gravierender als gedacht: So wären damit nicht nur Denial-of-Service-Attacken (DoS) gegen Bitcoin-Netzwerkknoten möglich, sondern auch eine Erzeugung von Bitcoins über die de… [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Oliver Bünte",
+            "title": "Berlin: Bitcoins und Ripple im Wert von rund 650.000 Euro beschlagnahmt",
+            "description": "Die Staatsanwaltschaft in Berlin hat Kryptowährung im Wert von Hunderttausenden Euro bei Kriminellen beschlagnahmt.",
+            "url": "https://www.heise.de/newsticker/meldung/Bitcoins-und-Ripple-im-Wert-von-rund-650-000-Euro-beschlagnahmt-4146794.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/8/9/4/9/1/urn-newsml-dpa-com-20090101-140815-99-00941_large_4_3-9dfd78c17b2c2694.jpeg",
+            "publishedAt": "2018-08-28T06:52:25Z",
+            "content": "Die virtuelle Währung Bitcoin und anderes Cybergeld ist inzwischen auch in den Kassen des Landes Berlin angelangt. Die Bitcoins und Ripple im Wert von insgesamt 649.000 Euro gelangten über eine Vermögensabschöpfung bei Kriminellen an das Land. Das geht aus ei… [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Ben Schwan",
+            "title": "Start-up Soluna will zum Ökominer von Kryptowährungen werden",
+            "description": "Die Firma Soluna will in Marokko eine gigantische Windkraftanlage nur für die Schaffung von Kryptowährungen nutzen.",
+            "url": "https://www.heise.de/newsticker/meldung/Start-up-Soluna-will-zum-Oekominer-von-Kryptowaehrungen-werden-4153188.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/3/7/1/5/oldwindpower_700-f2e27310de50b45f.png",
+            "publishedAt": "2018-09-05T05:07:20Z",
+            "content": "Bitcoin und Konsorten sind bei allen Vorteilen eines nicht: ökologisch nachhaltig. So gehen mittlerweile gigantische Energiemengen für das Mining und das Aufrechterhalten der Blockchain drauf. Eine junge Firma will die Kryptowährungen nun umweltfreundlicher m… [+1674 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: Geldanlage -",
+            "title": "Kryptowährungen: Bitcoin verliert weiter an Wert",
+            "description": "Die Digitalwährung Bitcoin ist innerhalb von 14 Stunden um mehr als 1.000 Dollar gesunken. Auch andere Kryptowährungen sind immer weniger wert.",
+            "url": "https://www.zeit.de/wirtschaft/geldanlage/2018-09/kryptowaehrungen-bitcoin-kurs-einbruch",
+            "urlToImage": "https://img.zeit.de/wirtschaft/geldanlage/2018-09/kryptowaehrungen-bitcoin-kurs/wide__1300x731",
+            "publishedAt": "2018-09-06T08:15:27Z",
+            "content": "Bereits den zweiten Tag in Folge sind mehrere Kryptowährungen deutlich gefallen. Der Bitcoin als anerkannteste und älteste Digitalwährung hat in der Nacht auf Donnerstag auf der Handelsplattform Bitstamp 9,5 Prozent an Wert verloren und liegt jetzt bei 6.253 … [+989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "l+f: Angela Merkel hat es auf Ihre Dateien abgesehen",
+            "description": "Die etwas andere Kampagne von Bundeskanzlerin Angela Merkel.",
+            "url": "https://www.heise.de/security/meldung/l-f-Angela-Merkel-hat-es-auf-Ihre-Dateien-abgesehen-4167460.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/3/7/0/2/20180918-ransomware-11-0203de942acc71aa.png",
+            "publishedAt": "2018-09-18T14:17:49Z",
+            "content": "(Bild: McAfee ) Die etwas andere Kampagne von Bundeskanzlerin Angela Merkel. Schluss mit merkeln, jetzt werden Dateien verschlüsselt und Lösegeld eingefordert. Sicherheitsforscher von McAfee sind auf einen Windows-Verschlüsselungstrojaner gestoßen, der behaup… [+645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Daniel Berger",
+            "title": "#TGIQF – das Newsticker-Quiz: Was war denn diese Woche los?",
+            "description": "Gamescom, neue Facebook-Alternative, krasse GeForce: Auch in dieser Woche war in der IT-Welt wieder viel los. Können Sie unser Wissenstest meistern?",
+            "url": "https://www.heise.de/newsticker/meldung/TGIQF-das-Newsticker-Quiz-Was-war-denn-diese-Woche-los-4144818.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/8/7/9/9/3/tgiqf-newsquiz-cc0c517b33f94d6b.jpeg",
+            "publishedAt": "2018-08-24T09:11:00Z",
+            "content": "Spannende Dinge sind auch in dieser Woche wieder passiert, über die wir auf heise online berichtet haben. Haben Sie in dieser Woche wieder fleißig mitgelesen und können das News-Quiz meistern? In dieser Ausgabe sind Sprachkenntnisse in Klingonisch gefragt (ma… [+919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "Chrome-Erweiterung des Filehosters Mega mit Malware verseucht",
+            "description": "Die Chrome-Erweiterung des Dienstes Mega wurde manipuliert und sammelt Zugangsdaten etwa von Amazon sowie private Schlüssel für Kryptowährungen ein.",
+            "url": "https://www.heise.de/security/meldung/Chrome-Erweiterung-des-Filehosters-Mega-mit-Malware-verseucht-4155489.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/5/3/3/5/tigerlily713-82c460162e976fb4.jpeg",
+            "publishedAt": "2018-09-05T12:10:51Z",
+            "content": "(Bild: tigerlily713) Die Chrome-Erweiterung des Dienstes Mega wurde manipuliert und sammelt Zugangsdaten etwa von Amazon sowie private Schlüssel für Kryptowährungen ein. Wer die Erweiterung des Filehosters Mega für Chrome nutzt, sollte sie zügig deinstalliere… [+1217 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Goldman Sachs legt Bitcoin-Handelspläne auf Eis und Kryptowährungen crashen",
+            "description": "Goldman Sachs hat einem Medienbericht zufolge seine Pläne, bald mit Kryptowährungen handeln zu wollen, auf Eis gelegt. Bitcoin und noch stärker Altcoins wie Ethereum oder XRP gaben kräftig nach. Gerade hatten sich die Kurse von Kryptowährungen wie Bitcoin, Et…",
+            "url": "https://t3n.de/news/goldman-sachs-legt-bitcoin-handelsplaene-auf-eis-und-kryptowaehrungen-crashen-1108290/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/02/bitcoin.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=c3773efa6fec89f91a564f410312f6ae",
+            "publishedAt": "2018-09-05T18:40:19Z",
+            "content": "Goldman Sachs hat einem Medienbericht zufolge seine Pläne, bald mit Kryptowährungen handeln zu wollen, auf Eis gelegt. Bitcoin und noch stärker Altcoins wie Ethereum oder XRP gaben kräftig nach. Gerade hatten sich die Kurse von Kryptowährungen wie Bitcoin, Et… [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Goldman Sachs legt Bitcoin-Handelspläne auf Eis und die Kryptowährungen crashen",
+            "description": "Goldman Sachs hat einem Medienbericht zufolge seine Pläne, bald mit Kryptowährungen handeln zu wollen, auf Eis gelegt. Bitcoin und noch stärker Altcoins wie Ethereum oder XRP gaben kräftig nach. Gerade hatten sich die Kurse von Kryptowährungen wie Bitcoin, Et…",
+            "url": "https://t3n.de/news/goldman-sachs-kryptowaehrungen-2-1108290/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/02/bitcoin.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=c3773efa6fec89f91a564f410312f6ae",
+            "publishedAt": "2018-09-05T18:40:19Z",
+            "content": "Goldman Sachs hat einem Medienbericht zufolge seine Pläne, bald mit Kryptowährungen handeln zu wollen, auf Eis gelegt. Bitcoin und noch stärker Altcoins wie Ethereum oder XRP gaben kräftig nach. Gerade hatten sich die Kurse von Kryptowährungen wie Bitcoin, Et… [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Kim Rixecker",
+            "title": "Goldman Sachs bezeichnet Meldung über Bitcoin-Rückzieher als Fake-News",
+            "description": "Der CFO von Goldman Sachs hat Berichte, nach denen die Investmentbank ihre Bitcoin-Pläne auf Eis gelegt habe, bestritten. Die Meldung hatte zu massiven Kursverlusten an den Kryptobörsen geführt. Entgegen früheren Medienberichten arbeitet Goldman Sachs weiterh…",
+            "url": "https://t3n.de/news/goldman-sachs-bitcoin-1108290/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/02/bitcoin.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=c3773efa6fec89f91a564f410312f6ae",
+            "publishedAt": "2018-09-07T08:28:19Z",
+            "content": "Der CFO von Goldman Sachs hat Berichte, nach denen die Investmentbank ihre Bitcoin-Pläne auf Eis gelegt habe, bestritten. Die Meldung hatte zu massiven Kursverlusten an den Kryptobörsen geführt. Entgegen früheren Medienberichten arbeitet Goldman Sachs weiterh… [+1920 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Goldman Sachs legt Bitcoin-Handelspläne auf Eis – Kryptowährungen crashen",
+            "description": "Goldman Sachs hat einem Medienbericht zufolge seine Pläne, bald mit Kryptowährungen handeln zu wollen, auf Eis gelegt. Bitcoin und noch stärker Altcoins wie Ethereum oder XRP gaben kräftig nach. Gerade hatten sich die Kurse von Kryptowährungen wie Bitcoin, Et…",
+            "url": "https://t3n.de/news/goldman-sachs-legt-1108290/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/02/bitcoin.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=c3773efa6fec89f91a564f410312f6ae",
+            "publishedAt": "2018-09-05T18:40:19Z",
+            "content": "Goldman Sachs hat einem Medienbericht zufolge seine Pläne, bald mit Kryptowährungen handeln zu wollen, auf Eis gelegt. Bitcoin und noch stärker Altcoins wie Ethereum oder XRP gaben kräftig nach. Gerade hatten sich die Kurse von Kryptowährungen wie Bitcoin, Et… [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Kim Rixecker",
+            "title": "Goldman Sachs bezeichnet Meldung über Bitcoin-Rückzieher als Fake-News",
+            "description": "Der CFO von Goldman Sachs hat Berichte, nach denen die Investmentbank ihre Bitcoin-Pläne auf Eis gelegt habe, bestritten. Die Meldung hatte zu massiven Kursverlusten an den Kryptobörsen geführt. Entgegen früheren Medienberichten arbeitet Goldman Sachs weiterh…",
+            "url": "https://t3n.de/news/goldman-sachs-bezeichnet-meldung-ueber-bitcoin-rueckzieher-als-fake-news-1108290/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/02/bitcoin.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=c3773efa6fec89f91a564f410312f6ae",
+            "publishedAt": "2018-09-07T08:28:19Z",
+            "content": "Der CFO von Goldman Sachs hat Berichte, nach denen die Investmentbank ihre Bitcoin-Pläne auf Eis gelegt habe, bestritten. Die Meldung hatte zu massiven Kursverlusten an den Kryptobörsen geführt. Entgegen früheren Medienberichten arbeitet Goldman Sachs weiterh… [+1920 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Der Aktionär",
+            "title": "Kryptowährung Bitcoin - Bitcoin stabil – Winklevoss Zwillinge schaffen Durchbruch",
+            "description": "Der Bitcoin hält sich weiterhin stabil bei 6.300 US-Dollar. Die starke Unterstützungszone um 6.000 US-Dollar hat sich dabei einmal mehr als verlässlich herausgestellt. Derweil rückt die ETF-Entscheidung der SEC immer näher. Große Bewegungen sollte es bis dahi…",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/kryptowaehrung-bitcoin-bitcoin-stabil-winklevoss-zwillinge-schaffen-durchbruch_id_9567695.html",
+            "urlToImage": "https://p5.focus.de/img/fotos/crop9414854/4982716115-w1200-h627-o-q75-p5/urn-newsml-dpa-com-20090101-180814-99-546980-large-4-3.jpg",
+            "publishedAt": "2018-09-11T07:50:00Z",
+            "content": "Vielen Dank! Ihr Kommentar wurde abgeschickt. Hier können Sie selbst Artikel verfassen: Bericht schreiben Im Interesse unserer User behalten wir uns vor, jeden Beitrag vor der Veröffentlichung zu prüfen. Als registrierter Nutzer werden Sie automatisch per E-M… [+59 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: Geldanlage - Vinzenz Neumaier",
+            "title": "Kryptowährungen: Schnell reichgerechnet",
+            "description": "Das Bitclub Network verspricht Anlegern lukrative Gewinne. Die Ersten vermuten, Opfer eines Schneeballsystems geworden zu sein. Auch die Staatsanwaltschaft ermittelt.",
+            "url": "https://www.zeit.de/2018/39/kryptowaehrungen-investition-anleger-bitclub-network-ermittlungen-bitcoin",
+            "urlToImage": "https://img.zeit.de/2018/39/bitclub_img-0/wide__1300x731",
+            "publishedAt": "2018-09-23T19:15:02Z",
+            "content": "Bevor Jörg Wittke an die Arbeit geht, lässt er es noch einmal richtig krachen. Anfang Januar 2016 empfängt er seine künftigen Geschäftspartner und deren Anhang in einer Villa in einem noblen Vorort von Dubai. Mehrere Kellner bedienen die Besucher der Party. E… [+3427 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Gemini Dollar: Die Winklevoss-Zwillinge launchen Dollar-gedeckten Ethereum-Token",
+            "description": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini…",
+            "url": "https://t3n.de/news/gemini-dollar-die-winklevoss-zwillinge-launchen-dollar-gedeckten-ethereum-token-1109363/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/12/winklevoss-zwillinge.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=4c7984cc482b805bc0893f77e7fe83dc",
+            "publishedAt": "2018-09-10T18:08:06Z",
+            "content": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini… [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Gemini Dollar: Winklevoss-Zwillinge launchen Dollar-gedeckten Ethereum-Token",
+            "description": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini…",
+            "url": "https://t3n.de/news/gemini-dollar-ethereum-token-1109363/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/12/winklevoss-zwillinge.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=4c7984cc482b805bc0893f77e7fe83dc",
+            "publishedAt": "2018-09-10T18:08:06Z",
+            "content": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini… [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Gemini Dollar: Winklevoss-Zwillinge launchen US-Dollar-gedeckten Ethereum-Token",
+            "description": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini…",
+            "url": "https://t3n.de/news/gemini-dollar-winklevoss-zwillinge-launchen-us-dollar-gedeckten-ethereum-token-1109363/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/12/winklevoss-zwillinge.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=4c7984cc482b805bc0893f77e7fe83dc",
+            "publishedAt": "2018-09-10T18:08:06Z",
+            "content": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini… [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Gemini Dollar: Winklevoss-Zwillinge launchen Dollar-gedeckten Ethereum-Token",
+            "description": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini…",
+            "url": "https://t3n.de/news/gemini-dollar-winklevoss-zwillinge-launchen-dollar-gedeckten-ethereum-token-1109363/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/12/winklevoss-zwillinge.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=4c7984cc482b805bc0893f77e7fe83dc",
+            "publishedAt": "2018-09-10T18:08:06Z",
+            "content": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini… [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Gemini Dollar: Winklevoss-Zwillinge launchen einen Dollar-gedeckten Ethereum-Token",
+            "description": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini…",
+            "url": "https://t3n.de/news/gemini-dollar-winklevoss-zwillinge-launchen-einen-dollar-gedeckten-ethereum-token-1109363/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/12/winklevoss-zwillinge.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=4c7984cc482b805bc0893f77e7fe83dc",
+            "publishedAt": "2018-09-10T18:08:06Z",
+            "content": "Die Winklevoss-Zwillinge Tyler und Cameron haben mit dem Gemini Dollar eine Kryptowährung gestartet, die auf der Ethereum-Blockchain basiert und durch den US-Dollar gedeckt sein soll. Das Finanzministerium des Bundesstaates New York hat der Kryptobörse Gemini… [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Stefan Krempl",
+            "title": "EU-Abgeordnete wollen Betrug bei bargeldlosen Zahlungen schärfer bekämpfen",
+            "description": "Die Parlamentarier haben einen Gesetzentwurf befürwortet, wonach die Strafen bei Kreditkartenbetrug erhöht und virtuelle Währungen einbezogen werden sollen.",
+            "url": "https://www.heise.de/newsticker/meldung/EU-Abgeordnete-wollen-Betrug-bei-bargeldlosen-Zahlungen-schaerfer-bekaempfen-4154806.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/4/7/7/4/urn-newsml-dpa-com-20090101-140225-99-02332_large_4_3-3148e5bfd949dea5.jpeg",
+            "publishedAt": "2018-09-04T13:32:03Z",
+            "content": "Mit großer Mehrheit hat sich der federführende Ausschuss für Bürgerrechte, Justiz und Inneres des EU-Parlaments am Montagabend für einen Richtlinienentwurf ausgesprochen, mit dem Betrug und Fälschungen rund um bargeldlose Zahlungsmittel wie Kredit- oder EC-Ka… [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Klemes Kilic (Wired)",
+            "title": "Im Vergleich: Kann der Bitcoin das neue Gold werden?",
+            "description": "Wenn die internationalen Finanzmärkte mal wieder durchdrehen, flüchten sich viele Investoren ins Gold. Das Edelmetall ist der Fels in der Brandung – bisher der einzige.",
+            "url": "https://www.gruenderszene.de/fintech/bitcoin-gold-vergleich",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/05/Bitcoin-Kurs.jpeg",
+            "publishedAt": "2018-09-21T07:00:32Z",
+            "content": "Sogar Steve Wozniak, der Mitgründer von Apple, hat den Bitcoin kürzlich das „einzige digitale Gold“ genannt – auch um ihn von anderen Kryptowährungen abzugrenzen. Ganz aus der Luft gegriffen ist die Aussage nicht. Es lassen sich tatsächlich einige Parallelen … [+5352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Andrea Keller",
+            "title": "Das sind die 10 wertvollsten Kryptowährungen der Welt",
+            "description": "Spätestens mit dem Hype um Bitcoin sind Kryptowährungen ins erweiterte Umfeld vieler Nutzer gekommen. Doch welche Kryptowährung ist eigentlich die größte? Und wie steht es um die Marktkapitalisierung? Unser wöchentliches Ranking präsentiert dir die zehn wertv…",
+            "url": "https://www.basicthinking.de/blog/2018/09/16/wertvollste-kryptowaehrungen/",
+            "urlToImage": null,
+            "publishedAt": "2018-09-16T18:35:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Btc-echo.de"
+            },
+            "author": "BTC ECHO",
+            "title": "Smart Cities und Kalaschnikows: Waves in Malta und Russland",
+            "description": "Waves ist weiter auf dem Vormarsch. Sowohl Malta als auch Russland arbeiten momentan an Plänen, die Plattform für die technologische Infrastruktur zu nutzen. Der Waves-Kurs steigt währenddessen weiter an. Während der Rest von Europa noch darüber sinnt, wie ma…",
+            "url": "https://www.btc-echo.de/smart-cities-und-kalashnikovs-waves-in-malta-und-russland/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/09/shutterstock-1038423937.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=d20e86bdf3cf96998aed248dda8f9f03",
+            "publishedAt": "2018-09-15T14:00:04Z",
+            "content": "Waves ist weiter auf dem Vormarsch. Sowohl Malta als auch Russland arbeiten momentan an Plänen, die Plattform für die technologische Infrastruktur zu nutzen. Der Waves-Kurs steigt währenddessen weiter an. Während der Rest von Europa noch darüber sinnt, wie ma… [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Von Redakteur Maximilian Nagel",
+            "title": "80 Prozent Minus - Offiziell schlimmer als Dotcom: Wir erleben gerade die Implosion der Kryptowährungen",
+            "description": "Dax, Dow & Co. müssen derzeit mächtig um jeden Zentimeter kämpfen. Es geht aber schlimmer: Der Bitcoin-Kurs bröckelt seit Wochen langsam dahin. Der ganze Kryptomarkt fällt in sich zusammen – warum?Von Redakteur Maximilian Nagel",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/80-prozent-minus-offiziell-schlimmer-als-dotcom-wir-erleben-gerade-die-implosion-der-kryptowaehrungen_id_9583650.html",
+            "urlToImage": "https://p5.focus.de/img/fotos/crop8615838/9762715699-w1200-h627-o-q75-p5/colourbox28005664.jpg",
+            "publishedAt": "2018-09-14T13:45:20Z",
+            "content": "Dax, Dow &amp; Co. müssen derzeit mächtig um jeden Zentimeter kämpfen. Es geht aber schlimmer: Der Bitcoin-Kurs bröckelt seit Wochen langsam dahin. Der ganze Kryptomarkt fällt in sich zusammen – warum? Jüngere Anlegergenerationen sind bislang von Börsenkatast… [+5934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Olivia von Westernhagen",
+            "title": "Datenleck bei Mortal Online: Kriminelle boten 500.000 Nutzeraccounts zum Kauf an",
+            "description": "Dass die Mehrfachnutzung von Passwörtern eine ebenso schlechte Idee ist wie deren Speicherung als MD5-Hashes, zeigt ein Datenleak beim MMORPG Mortal Online.",
+            "url": "https://www.heise.de/security/meldung/Datenleck-bei-Mortal-Online-Kriminelle-boten-500-000-Nutzeraccounts-zum-Kauf-an-4154668.html?wt_mc=rss.ho.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/4/6/8/1/skull-782385_1280-1863bcf2712d1109.png",
+            "publishedAt": "2018-09-05T13:55:17Z",
+            "content": "(Bild: flegmatik95 ) Dass die Mehrfachnutzung von Passwörtern eine ebenso schlechte Idee ist wie deren Speicherung als MD5-Hashes, zeigt ein Datenleak beim MMORPG Mortal Online. Ein unabhängiger Sicherheitsforscher hat dem Passwort-Prüfdienst Have I Been Pwne… [+3585 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Klemes Kilic (Wired)",
+            "title": "Kryptowährungen: Warum China Bitcoin und Co. jetzt das Leben schwermacht",
+            "description": "Erst wollte China Vorreiter bei Kryptowährungen sein, jetzt merkt die autoritäre Regierung, wie schwer Bitcoin, Etherum und Co. sich kontrollieren lassen.",
+            "url": "https://www.gruenderszene.de/fintech/china-bitcoin-krypto-aerger",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/09/GettyImages-943527446.jpg",
+            "publishedAt": "2018-09-12T04:30:50Z",
+            "content": "Automaten in Hong Kong, an dem man Kryptowährungen in Bargeld wechseln kann. China ist längst eine wirtschaftliche Supermacht. Nach den USA ist die Volksrepublik die zweitgrößte Ökonomie der Welt. Erarbeitet hat sich das Land diese Stellung aber als „Werkbank… [+9339 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Felix Disselhoff",
+            "title": "Fake News: Betrüger zocken Bitcoin-Laien mit gefälschten DHDL-News ab",
+            "description": "Die Masche der Kriminellen: Sie publizieren Artikel, in denen die DHDL-Juroren angeblich eine neuartige Bitcoin-Trading-Plattform loben – und locken so ihre Opfer an.",
+            "url": "https://www.gruenderszene.de/media/bitcoin-betrueger-dhdl",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/09/dagmar-woehrl-dhdl.jpg",
+            "publishedAt": "2018-09-24T05:00:16Z",
+            "content": "Dagmar Wöhrl sei dank der Bitcoin-Trading-Plattform zur Multimillionärin geworden, schreiben die Betrüger. Alles macht zunächst den Anschein, als handele es sich um einen seriösen Artikel: Ein unscheinbares Logo, eine Top-Navigation mit mehreren Kategorien un… [+7637 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Reuters",
+            "title": "Digitales Geld: Finanzminister Scholz glaubt nicht an Kryptowährungen",
+            "description": "Der SPD-Politiker zweifelt daran, dass digitale Währungen wie Bitcoin und Ethereum bald klassische Währungen ersetzen. Der Minister beobachte die Entwicklung aber.",
+            "url": "https://www.gruenderszene.de/fintech/finanzminister-scholz-glaubt-nicht-an-kryptowaehrungen",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/09/grumpy_scholz.jpg",
+            "publishedAt": "2018-09-18T13:51:49Z",
+            "content": "Bundesfinanzminister Olaf Scholz (SPD) glaubt nicht an den baldigen Ersatz von klassischen Währungen durch die Blockchain-Technologie. „Ob das als Währungsmodell eine Perspektive hat, würde ich heute bezweifeln“, sagte Scholz am Dienstag im Rahmen eines Bürge… [+932 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Johannes Schuba",
+            "title": "So funktioniert Cloud-Mining",
+            "description": "Eigene Hardware ade: Beim Cloud-Mining können Ressourcen fürs Schürfen von Kryptowährungen gebucht werden. So funktioniert’s. Das Minen von Kryptowährungen wurde besonders in der Hochzeit des Bitcoin immer mehr zum Geschäftsmodell. Gerade wenn wie beim Cloud-…",
+            "url": "https://t3n.de/news/cloud-mining-957628/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/02/cloud-mining-shutterstock-697469458.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=8be6aa4bdf2447031c91488e809131c2",
+            "publishedAt": "2018-08-27T08:33:14Z",
+            "content": "Eigene Hardware ade: Beim Cloud-Mining können Ressourcen fürs Schürfen von Kryptowährungen gebucht werden. So funktioniert’s. Das Minen von Kryptowährungen wurde besonders in der Hochzeit des Bitcoin immer mehr zum Geschäftsmodell. Gerade wenn wie beim Cloud-… [+4082 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Daniel Hüfner",
+            "title": "102 Millionen US-Dollar für das Startup Dfinity mit dem Blockchain-Supercomputer",
+            "description": "Das Schweizer Blockchain-Startup Dfinity baut einen dezentralen Cloud-Computer, der Amazon das Geschäft streitig machen soll. Namhafte Investoren stellen jetzt über 100 Millionen Dollar bereit. Erst drei Jahre alt, aber schon Milliarden wert: Das Schweizer Bl…",
+            "url": "https://t3n.de/news/102-millionen-us-dollar-fuer-das-startup-dfinity-mit-dem-blockchain-supercomputer-1106318/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/08/dfinity-dominic-williams.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=cd57bef0be7d9e7f699901c5159ec1fb",
+            "publishedAt": "2018-08-30T14:36:48Z",
+            "content": "Das Schweizer Blockchain-Startup Dfinity baut einen dezentralen Cloud-Computer, der Amazon das Geschäft streitig machen soll. Namhafte Investoren stellen jetzt über 100 Millionen Dollar bereit. Erst drei Jahre alt, aber schon Milliarden wert: Das Schweizer Bl… [+1876 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Tatjana Anisimov",
+            "title": "Diese Expertin erklärt Blockchain in 5 Schwierigkeitsstufen",
+            "description": "Was sich hinter Blockchain genau verbirgt, wissen nur wenige Menschen. Diese Blockchain-Forscherin erklärt in einem Video die Technologie für fünf Menschen in verschiedenen Schwierigkeitsstufen – vom Kleinkind bis zum Kollegen auf Expertenniveau. Blockchain i…",
+            "url": "https://t3n.de/news/expertin-erklaert-blockchain-unterschiedlich-1105642/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/08/bettina-warburg.jpeg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=509e32a0ca4b6ea648375161aaca3750",
+            "publishedAt": "2018-08-29T06:15:28Z",
+            "content": "Bettina Warburg bei ihrem TED Talk \"How the blockchain will radically transform the economy\". (Foto: TED Talk) 29.08.2018, 08:15 Uhr | Hinweis: Artikel enthält Provisions-Links – Was ist das? Was sich hinter Blockchain genau verbirgt, wissen nur wenige Mensch… [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Daniel Hüfner",
+            "title": "102 Millionen Dollar für das Startup mit dem Blockchain-Supercomputer",
+            "description": "Das Schweizer Blockchain-Startup Dfinity baut einen dezentralen Cloud-Computer, der Amazon das Geschäft streitig machen soll. Namhafte Investoren stellen jetzt über 100 Millionen Dollar bereit. Erst drei Jahre alt, aber schon Milliarden wert: Das Schweizer Bl…",
+            "url": "https://t3n.de/news/dfinity-blockchain-startup-1106318/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/08/dfinity-dominic-williams.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=cd57bef0be7d9e7f699901c5159ec1fb",
+            "publishedAt": "2018-08-30T14:36:48Z",
+            "content": "Das Schweizer Blockchain-Startup Dfinity baut einen dezentralen Cloud-Computer, der Amazon das Geschäft streitig machen soll. Namhafte Investoren stellen jetzt über 100 Millionen Dollar bereit. Erst drei Jahre alt, aber schon Milliarden wert: Das Schweizer Bl… [+1876 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Michel Penke",
+            "title": "Dezentralisierte Apps: Sorry, aber die dApp-Revolution braucht noch ein bisschen",
+            "description": "Nach dem Bitcoin-Hype waren die Erwartungen an neue Blockchain-Anwendungen hoch. Doch bisher nutzt kaum jemand dApps. Stockt die Disruption? Nein, glaubt unser Autor.",
+            "url": "https://www.gruenderszene.de/technologie/dapp-nutzung-kommentar",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/11/dzug.jpg",
+            "publishedAt": "2018-08-30T02:00:13Z",
+            "content": "Doch kein D-Zug: Auch die Blockchain braucht noch ein bisschen Zeit. 2017, das war Hype. Die Blockchain werde unser Leben komplett umkrempeln, so der Tenor, und das schon bald. Ein Jahr später fragt man sich: Disrupiert hier noch mal jemand irgendwas? Im verg… [+4099 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "mit dpa",
+            "title": "+++ Wirtschafts-News +++ - Bitcoin verliert 9,5 Prozent – Kryptowährungen auf dem Rückzug",
+            "description": "Aktien, Währungen, Fonds, Rohstoffe, Zertifikate in Realtime. Bei Finanzen100, dem Börsen-Portal von FOCUS Online, finden Sie täglich alle wichtigen News inklusive der Kursbewegungen in Dax, Dow Jones, Nikkei, sowie beim Gold- oder Ölpreis.",
+            "url": "https://www.focus.de/finanzen/boerse/wirtschafts-news-bitcoin-verliert-9-5-prozent-kryptowaehrungen-auf-dem-rueckzug_id_9540281.html",
+            "urlToImage": "https://p5.focus.de/img/fotos/crop9503849/4042713253-w1200-h627-o-q75-p5/gettyimages-1001828074.jpg",
+            "publishedAt": "2018-09-06T07:11:51Z",
+            "content": "20.08.2018 | ernst stern Wir Deutschen retten alle Wir Deutschen retten die Banken., den Euro, die Griechen., die Italiener, die Türken, das Klima, alle retten wir, auch die Flüchtlinge im Mittelmeer. Der Bergretter im ZDF wird zur Lieblingssendung der Deutsc… [+575 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Felix Holtermann",
+            "title": "Coin und Co: Die Krypto-Kolumne: Bitcoin schlägt Dax – Ein (unfairer) Vergleich",
+            "description": "Der Krypto-Crash ähnelt dem Platzen der Dotcom-Blase – und doch schlägt der Bitcoin den Dax. Warum Coin-Anleger auch in Zukunft mit solchen Paradoxien leben müssen.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/coin-und-co-die-krypto-kolumne-bitcoin-schlaegt-dax-ein-unfairer-vergleich/23070114.html",
+            "urlToImage": "https://www.handelsblatt.com/images/1/20972320/4-format2003.png",
+            "publishedAt": "2018-09-17T08:57:43Z",
+            "content": "Düsseldorf Wohin steuert der Bitcoin – und mit ihm die vielen anderen Kryptowährungen? Einschätzungen, Hintergründe und Anekdoten gibt es jede Woche von den Handelsblatt-Redakteuren Astrid Dörner, Felix Holtermann und Frank Wiebe in unserer Krypto-Kolumne „Co… [+5258 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Astrid Dörner",
+            "title": "Coin und Co: Die Krypto-Kolumne: Goldman-Meldung zeigt, wie spekulativ der Krypto-Markt ist",
+            "description": "Berichte über Bitcoin-Pläne der Investmentbank verunsichern Investoren. Dabei ist nicht klar, dass ein Engagement der Wall Street gut für die Preise ist.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/coin-und-co-die-krypto-kolumne-goldman-meldung-zeigt-wie-spekulativ-der-krypto-markt-ist/23013608.html",
+            "urlToImage": "https://www.handelsblatt.com/images/1/20972320/4-format2003.png",
+            "publishedAt": "2018-09-08T16:25:00Z",
+            "content": "New York Wohin steuert der Bitcoin – und mit ihm die vielen anderen Kryptowährungen? Einschätzungen, Hintergründe und Anekdoten gibt es jede Woche von den Handelsblatt-Redakteuren Astrid Dörner, Felix Holtermann und Frank Wiebe in unserer Krypto-Kolumne „Coin… [+2052 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": null,
+            "title": "Kryptowährung: Bitcoin verliert innerhalb von 14 Stunden mehr als 1000 US-Dollar",
+            "description": "Die Werte digitaler Währungen sind in der Nacht zu Donnerstag weiter deutlich gefallen. Der Bitcoin gibt um fast zehn Prozent nach.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrung-bitcoin-verliert-innerhalb-von-14-stunden-mehr-als-1000-us-dollar/23002820.html",
+            "urlToImage": "https://www.handelsblatt.com/images/digitalwaehrung/22993754/3-format2003.jpg",
+            "publishedAt": "2018-09-06T07:36:25Z",
+            "content": "Frankfurt/Main Kryptowährungen wie der Bitcoin sind am Donnerstag den zweiten Tag in Folge deutlich gefallen. Der Bitcoin als bekannteste und älteste Digitalwährung fiel in der Nacht auf Donnerstag auf der Handelsplattform Bitstamp um etwa 9,5 Prozent auf bis… [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Frank Wiebe",
+            "title": "Kryptowährung: Bitcoin verliert innerhalb von 14 Stunden mehr als 1000 US-Dollar – fängt sich aber",
+            "description": "Statt der Hoffnung auf eine technische Revolution bestimmt mittlerweile die Wertschätzung durch die Wall Street die Kurse.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrung-bitcoin-verliert-innerhalb-von-14-stunden-mehr-als-1000-us-dollar-faengt-sich-aber/23002820.html",
+            "urlToImage": "https://www.handelsblatt.com/images/digitalwaehrung/22993754/3-format2003.jpg",
+            "publishedAt": "2018-09-06T07:36:25Z",
+            "content": "Frankfurt/Main Die Kurse von Bitcoin und anderen Kryptowährungen haben sich nach einem dramatischen Abstieg wieder gefangen. Am Donnerstagnachmittag lag der Bitcoin mit rund 6438 US-Dollar allerdings immer noch um mehr als acht Prozent unterhalb des Werts von… [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Frank Wiebe",
+            "title": "Kryptowährung: Bitcoin verliert innerhalb von 14 Stunden mehr als 1000 US-Dollar an Wert",
+            "description": "Statt der Hoffnung auf eine technische Revolution bestimmt mittlerweile die Wertschätzung durch die Wall Street die Kurse von Kryptowährungen. Zuletzt sackten die Kurse kräftig ab.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrung-bitcoin-verliert-innerhalb-von-14-stunden-mehr-als-1000-us-dollar-an-wert/23002820.html",
+            "urlToImage": "https://www.handelsblatt.com/images/digitalwaehrung/22993754/3-format2003.jpg",
+            "publishedAt": "2018-09-06T07:36:25Z",
+            "content": "Frankfurt/Main Die Kurse von Bitcoin und anderen Kryptowährungen haben sich nach einem dramatischen Abstieg wieder gefangen. Am Donnerstagnachmittag lag der Bitcoin mit rund 6438 US-Dollar allerdings immer noch um mehr als acht Prozent unterhalb des Werts von… [+2845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sueddeutsche.de"
+            },
+            "author": "Von Günther Knoll",
+            "title": "Internet: Angeblich beim Pornoschauen gefilmt: Erpressungen nehmen zu",
+            "description": "Per Mail werden die Opfer aufgefordert, einen Geldbetrag zu zahlen, damit die Aufnahmen nicht weiter verbreitet werden. Die Polizei berichtet von etwa 20 Fällen pro Tag, die Dunkelziffer dürfte höher sein.",
+            "url": "https://www.sueddeutsche.de/muenchen/muenchen-erpressung-pornos-1.4102164",
+            "urlToImage": "https://www.sueddeutsche.de/staticassets/img/article/facebook-default.140428.jpg",
+            "publishedAt": "2018-08-23T15:08:10Z",
+            "content": "Offenbar häufen sich in München die die Erpressungsversuche mit angeblichem Filmmaterial vom Pornoschauen. Die Polizei berichtet von etwa fünf Anzeigen pro Tag, zudem meldeten sich täglich etwa 16 Menschen telefonisch. Per E-Mail erhalten die Opfer die Forder… [+3189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Jetzt updaten: Bitcoin Core fixt DoS-Bug",
+            "description": "Ein speziell präparierter Block hätte den Bitcoin-Client Core abstürzen lassen können. Ein neue Version der Software behebt den Bug.",
+            "url": "https://www.heise.de/newsticker/meldung/Jetzt-updaten-Bitcoin-Core-fixt-DoS-Bug-4169117.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/4/9/5/0/urn-newsml-dpa-com-20090101-180213-99-55040_large_4_3-4298c0a908c12fe1.jpeg",
+            "publishedAt": "2018-09-20T15:04:02Z",
+            "content": "Nutzer des Bitcoin-Referenz-Clients Core sollten unverzüglich auf die am Dienstag bereitgestellte Version 0.16.3 updaten. Mit der neuen Version wird ein Bug ausgebügelt, bei dem eine bestimmte Art von Block zum Absturz der Software geführt hätte. Konkret wäre… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "John McAfees \"unhackbares\" Bitcoin-Wallet Bitfi gehackt – mehrmals",
+            "description": "Zum wiederholten Male haben Sicherheitsforscher eigentlich geheime Passphrasen aus dem Bitcoin-Wallet Bitfi asugelesen.",
+            "url": "https://www.heise.de/security/meldung/John-McAfees-unhackbares-Bitcoin-Wallet-Bitfi-gehackt-mehrmals-4152116.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/2/7/7/5/WorldSpectrum-c19387fab0985e72.jpeg",
+            "publishedAt": "2018-08-31T09:25:57Z",
+            "content": "(Bild: WorldSpectrum) Zum wiederholten Male haben Sicherheitsforscher eigentlich geheime Passphrasen aus dem Bitcoin-Wallet Bitfi asugelesen. Dem Hersteller zufolge ist das auf Android basierende Bitcoin-Wallet Bitfi \"unhackbar\". Dass das nicht stimmt, haben … [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "Klaus Ehringfeld",
+            "title": "Hyperinflation in Venezuela: Fünf Nullen weniger auf den Scheinen - Händler schließen Läden",
+            "description": "Ein Kilo Fleisch für dreieinhalb Monatsgehälter: Im Kampf gegen die rasante Inflation legt Venezuelas Linksregierung Zwangspreise fest - und macht alles nur noch schlimmer.",
+            "url": "http://www.spiegel.de/wirtschaft/venezuela-fuenf-nullen-weniger-neue-scheine-wirtschaftskrise-geht-weiter-a-1225072.html",
+            "urlToImage": "http://cdn1.spiegel.de/images/image-1331770-860_poster_16x9-elyw-1331770.jpg",
+            "publishedAt": "2018-08-27T13:49:00Z",
+            "content": "Montag, 27.08.2018 15:49 Uhr Bisher gab es in Venezuela nichts zu kaufen, weil die Supermärkte leer waren. Inzwischen sind die Regale zwar halbwegs voll, aber die Inflation frisst das Geld weg. Zuletzt wurde der \"Bolívar fuerte\", der \"starke Bolívar\", so schw… [+6252 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Werner Grundlehner, Werner Grundlehner",
+            "title": "Die Geburtswehen des Bitcoin-ETF",
+            "description": "Die US-Börsenaufsicht erteilt den Investmentvehikeln regelmässig Absagen. Das ist vielen in der Krypto-Gemeinde gar nicht unrecht.",
+            "url": "https://www.nzz.ch/finanzen/die-geburtswehen-des-bitcoin-etf-ld.1415462",
+            "urlToImage": "https://img.nzz.ch/C=W3500,H1837.5,X0,Y248.75/S=W1200M,H630M/O=75/C=AR1200x630/https://nzz-img.s3.amazonaws.com/2018/8/29/bc3a3191-7834-4e9d-b771-9b710c06d8e0.jpeg?wmark=nzz",
+            "publishedAt": "2018-08-29T11:35:24Z",
+            "content": "In der vergangenen Woche sagte die US-Börsenaufsicht SEC gleich zu neun Anfragen «Njet», die Bitcoin-basierte ETF (Exchange Traded Fund) betrafen. Die Gesuche stammten von drei verschiedenen Unternehmen. Die SEC bemängelte, die ETF erfüllten die Voraussetzung… [+3062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Bitcoin: Bug in Core-Software ist deutlich schwerwiegender",
+            "description": "Ein kürzlich gefixter Bug in der Bitcoin-Software Core hätte nicht nur DoS-Angriffe ermöglicht, sondern unter bestimmten Bedingungen auch einen Double Spend.",
+            "url": "https://www.heise.de/newsticker/meldung/Bitcoin-Bug-in-Core-Software-ist-deutlich-schwerwiegender-4170818.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/6/2/1/1/urn-newsml-dpa-com-20090101-180314-99-474757_large_4_3-3fe856567102c31a.jpeg",
+            "publishedAt": "2018-09-23T12:49:46Z",
+            "content": "Die in dieser Woche gepatchte Lücke im Bitcoin-Referenzclient Core ist offenbar noch gravierender als gedacht: So wären damit nicht nur Denial-of-Service-Attacken (DoS) gegen Bitcoin-Netzwerkknoten möglich, sondern auch eine Erzeugung von Bitcoins über die de… [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Susanne Preuß",
+            "title": "Wie Blockchain die Meere von Plastikmüll säubern soll",
+            "description": "Im Pazifik schwimmt ein riesiger Strudel aus Plastikmüll. An der Lösung dieses Problems wird derzeit auf der Me Convention in Stockholm getüftelt – mit der digitalen Blockchain-Technologie.",
+            "url": "http://www.faz.net/aktuell/wirtschaft/me-convention/wie-blockchain-die-meere-von-plastikmuell-saeubern-soll-15772841.html",
+            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/wirtschaft/3580503897/1.5772542/article_multimedia_overview/das-thema-blockchain-ist-auf.jpg",
+            "publishedAt": "2018-09-05T14:18:37Z",
+            "content": "S haun Frankson braucht nur Sekunden, um das Problem mit dem Plastik zu beschreiben. Er macht ausladende Gesten mit seinen Armen und sagt: „Jede Minute gelangt so viel Plastik in die Meere, wie in diesen Raum passen würde.“ Ob das so ganz genau stimmt – gesch… [+2894 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Felix Holtermann",
+            "title": "Kursrally: Ripple macht Ethereum den Rang als zweitgrößte Kryptowährung streitig",
+            "description": "Ripple war lange Zeit die Nummer drei unter der Kryptowährungen. Doch jetzt greift das von den Großbanken bevorzugte Netzwerk nach dem zweiten Rang.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kursrally-ripple-macht-ethereum-den-rang-als-zweitgroesste-kryptowaehrung-streitig/23100484.html",
+            "urlToImage": "https://www.handelsblatt.com/images/kryptowaehrungen/23100540/3-format2003.jpg",
+            "publishedAt": "2018-09-21T19:08:35Z",
+            "content": "Düsseldorf Die über lange Zeit drittgrößte Kryptowährung Ripple hat am Freitag eine erstaunliche Kursrally hingelegt. Kurzzeitig löste Ripple sogar Ethereum als die nach dem Bitcoin zweitgrößte virtuelle Währung ab. Laut Daten des Analysehauses Coinmarketcap … [+3034 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Ist der Boom vorbei? ICO-Investitionen so gering wie zuletzt im Mai 2017",
+            "description": "Ist der Hype um kryptobasierte Finanzierungen vorbei? Zumindest ist das Volumen der ICO-Investitionen im August stark eingebrochen – auf das Niveau vom Frühjahr 2017. Anfang dieses Jahres konnten Startups über sogenannte Initial Coin Offerings (ICO) noch sehr…",
+            "url": "https://t3n.de/news/ist-der-boom-vorbei-ico-investitionen-so-gering-wie-zuletzt-im-mai-2017-1109431/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/06/shutterstock-368346086-wallet-ethereum-ico.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=1c9a366ab048bb02956e6c1ade23da18",
+            "publishedAt": "2018-09-11T10:17:58Z",
+            "content": "Ist der Hype um kryptobasierte Finanzierungen vorbei? Zumindest ist das Volumen der ICO-Investitionen im August stark eingebrochen – auf das Niveau vom Frühjahr 2017. Anfang dieses Jahres konnten Startups über sogenannte Initial Coin Offerings (ICO) noch sehr… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Boom vorbei? ICO-Investitionen so gering wie zuletzt im Mai 2017",
+            "description": "Ist der Hype um kryptobasierte Finanzierungen vorbei? Zumindest ist das Volumen der ICO-Investitionen im August stark eingebrochen – auf das Niveau vom Frühjahr 2017. Anfang dieses Jahres konnten Startups über sogenannte Initial Coin Offerings (ICO) noch sehr…",
+            "url": "https://t3n.de/news/boom-vorbei-ico-investitionen-1109431/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/06/shutterstock-368346086-wallet-ethereum-ico.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=1c9a366ab048bb02956e6c1ade23da18",
+            "publishedAt": "2018-09-11T10:17:58Z",
+            "content": "Ist der Hype um kryptobasierte Finanzierungen vorbei? Zumindest ist das Volumen der ICO-Investitionen im August stark eingebrochen – auf das Niveau vom Frühjahr 2017. Anfang dieses Jahres konnten Startups über sogenannte Initial Coin Offerings (ICO) noch sehr… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Boom vorbei? ICO-Investitionen so gering wie zuletzt im Mai 2017",
+            "description": "Ist der Hype um kryptobasierte Finanzierungen vorbei? Zumindest ist das Volumen der ICO-Investitionen im August stark eingebrochen – auf das Niveau vom Frühjahr 2017. Anfang dieses Jahres konnten Startups über sogenannte Initial Coin Offerings (ICO) noch sehr…",
+            "url": "https://t3n.de/news/boom-vorbei-ico-investitionen-so-gering-wie-zuletzt-im-mai-2017-1109431/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2017/06/shutterstock-368346086-wallet-ethereum-ico.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=1c9a366ab048bb02956e6c1ade23da18",
+            "publishedAt": "2018-09-11T10:17:58Z",
+            "content": "Ist der Hype um kryptobasierte Finanzierungen vorbei? Zumindest ist das Volumen der ICO-Investitionen im August stark eingebrochen – auf das Niveau vom Frühjahr 2017. Anfang dieses Jahres konnten Startups über sogenannte Initial Coin Offerings (ICO) noch sehr… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Michel Penke",
+            "title": "TV-Show „Blockblattle“: Das koreanische Krypto-DHDL könnt ihr auch in Deutschland sehen",
+            "description": "Wer ist der beste Blockchain-Gründer? Das fragt die südkoreanische Sendung „Blockbattle“, die im Oktober anläuft. Auch hierzulande wird man sie verfolgen können.",
+            "url": "https://www.gruenderszene.de/fintech/blockbattle-show-korea-blockchain-krypto",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/08/blockbattle.jpg",
+            "publishedAt": "2018-08-28T08:04:58Z",
+            "content": "Nicht „Takeshi’s Castle“ sondern Satoshis Casting startet bald im TV. Südkorea gilt als eine der krypto-verrücktesten Nationen der Welt. Nun startet im koreanischen Fernsehen eine TV-Show, die sich nur mit Blockchain-Startups beschäftigen wird. Das Konzept vo… [+1288 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Astrid Dörner",
+            "title": "Coin & Co: Die Krypto-Kolumne: Deutsche Finanzbranche ruft nach ICO-Regulierung",
+            "description": "Wenn die Finanzindustrie selbst nach Vater Staat ruft, muss wirklich etwas im Argen liegen. Eine Studie zeigt, wie kritisch Top-Banker virtuelle Börsengänge sehen.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/coin-und-co-die-krypto-kolumne-deutsche-finanzbranche-ruft-nach-ico-regulierung/22951970.html",
+            "urlToImage": "https://www.handelsblatt.com/images/1/20972320/4-format2003.png",
+            "publishedAt": "2018-08-24T17:30:37Z",
+            "content": "New York Wohin steuert der Bitcoin – und mit ihm die vielen anderen Kryptowährungen? Einschätzungen, Hintergründe und Anekdoten gibt es jede Woche von den Handelsblatt-Redakteuren Astrid Dörner, Felix Holtermann und Frank Wiebe in unserer Krypto-Kolumne „Coin… [+4863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Winfuture.de"
+            },
+            "author": "John Woll",
+            "title": "Wieder geknackt: John McAfees \"unhackbares\" Bitcoin-Wallet hat Löcher",
+            "description": "Die von John McAfee unterstützten Entwickler des Bitcoin-Wallet Bitfi bewerben ihr Produkt vollmundig mit dem Attribut \"unhackbar\". Geht es nach Sicherheitsforschern, sollte man diese Behauptung wohl besser schleunigst zurückziehen: Diese konnten eigentlich g…",
+            "url": "http://winfuture.de/news,104847.html",
+            "urlToImage": "https://img.winfuture.de/teaser/660/25512.jpg",
+            "publishedAt": "2018-08-31T14:00:00Z",
+            "content": "Die von John McAfee unterstützten Entwickler des Bitcoin-Wallet Bitfi bewerben ihr Produkt vollmundig mit dem Attribut \"unhackbar\". Geht es nach Sicherheitsforschern, sollte man diese Behauptung wohl besser schleunigst zurückziehen: Diese konnten eigentlich g… [+2189 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "SPIEGEL ONLINE",
+            "title": "Warnung vor Ransomware: Erpressungs-Trojaner stecken in Bewerbungen",
+            "description": "Das LKA Niedersachen warnt vor einer Ransomware-Welle, die auf Firmen zielt. Wer vermeintliche Bewerbungsunterlagen junger Frauen anschauen will, kann dadurch den Zugang zu seinen Daten verlieren.",
+            "url": "http://www.spiegel.de/netzwelt/web/bewerbungsmails-lka-niedersachsen-warnt-vor-ransomware-a-1226509.html",
+            "urlToImage": "http://cdn1.spiegel.de/images/image-1335170-860_poster_16x9-qztk-1335170.jpg",
+            "publishedAt": "2018-09-04T14:28:23Z",
+            "content": "Dienstag, 04.09.2018 16:28 Uhr Sind Sie Unternehmer oder Personalchef und suchen Sie gerade neue Mitarbeiterinnen? Dann seien Sie vorsichtig: Das Landeskriminalamt Niedersachsen warnt vor einer neuen Welle von E-Mails mit Erpressungs-Trojanern, sogenannter Ra… [+2159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Welt.de"
+            },
+            "author": "WELT",
+            "title": "„Wir haben Sie beim Masturbieren gefilmt“",
+            "description": "Eine Welle Drohmails beschäftigt die Münchner Polizei. Abzocker behaupten, Betroffene beim Pornogucken gefilmt zu haben, und verlangen Geld. Andernfalls drohen sie, die Aufnahmen zu veröffentlichen.",
+            "url": "https://www.welt.de/regionales/bayern/article181291338/Erpresser-drohen-per-Mail-Wir-haben-Sie-beim-Masturbieren-gefilmt.html",
+            "urlToImage": "https://www.welt.de/img/regionales/bayern/mobile181293228/5451354957-ci16x9-w1200/86170547.jpg",
+            "publishedAt": "2018-08-24T13:23:40Z",
+            "content": "D ie Erpresser spielen mit der Angst vor Blamage, das verrät schon der Text ihrer Mails: „ Masturbieren ist natürlich, aber wenn deine Familie oder Freunde davon zeugen, ist es natürlich eine große Schande“, schreiben sie zum Beispiel. Dann behaupten sie, den… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Welt.de"
+            },
+            "author": "WELT",
+            "title": "„Es muss jetzt mal einen praktischen Nutzen dieser Kryptowährung geben“",
+            "description": "Bitcoin befindet sich weiter auf Talfahrt. Die US-Aufsichtsbehörden kämpfen gegen Betrugsfälle im Bereich der Kryptowährungen. Wie es um diese Zahlungsmittel bestellt ist, dazu eine Einschätzung von dem Kapitalmarktstrategen Stefan Riße.",
+            "url": "https://www.welt.de/wirtschaft/video181506590/Boersengespraech-Es-muss-jetzt-mal-einen-praktischen-Nutzen-dieser-Kryptowaehrung-geben.html",
+            "urlToImage": "https://www.welt.de/img/incoming/mobile181506714/1281356397-ci16x9-w1200/bitcoin-risse-jpg.jpg",
+            "publishedAt": "2018-09-12T12:01:59Z",
+            "content": "© Axel Springer SE Die WELT als ePaper: Die vollständige Ausgabe steht Ihnen bereits am Vorabend zur Verfügung – so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link dieses Artikels lautet: https://www.welt.de/1… [+7 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": null,
+            "title": "Notenbank: Europäische Zentralbank plant keine eigene Digitalwährung",
+            "description": "EZB-Chef Mario Draghi zufolge existieren derzeit keine Pläne für eine Notenbank-eigene Digitalwährung. Die Technologien dahinter seien noch nicht ausreichend getestet worden.",
+            "url": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-europaeische-zentralbank-plant-keine-eigene-digitalwaehrung/23068902.html",
+            "urlToImage": "https://www.handelsblatt.com/images/mario-draghi/23068922/5-format2003.jpg",
+            "publishedAt": "2018-09-14T12:25:38Z",
+            "content": "Frankfurt Die Europäische Zentralbank verfolgt aktuell keine Pläne für eine eigene Digitalwährung. Dies schrieb EZB -Chef Mario Draghi in einem am Freitag veröffentlichten Brief an einen Europa-Abgeordneten. Die möglichen Folgen, die eine solche Währung als E… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Derstandard.at"
+            },
+            "author": "redaktion@derStandard.at (derStandard.at Redaktion)",
+            "title": "Finanzmarkt - Bitcoin-Technologie erstmals am heimischen Aktienmarkt eingesetzt",
+            "description": "Die Crowdinvesting-Plattform Conda verlagert als erstes österreichisches Unternehmen ihr Aktiengeschäft auf die Blockchain",
+            "url": "https://derstandard.at/2000086624268/Bitcoin-Technologie-erstmals-am-heimischen-Aktienmarkt-eingesetzt?ref=rss",
+            "urlToImage": "https://at.staticfiles.at/img/meta/image_de_1200x600-b9f2242ebf.png",
+            "publishedAt": "2018-09-04T07:00:00Z",
+            "content": "Ich stimme der Verwendung von Cookies zu. Auch wenn ich diese Website weiter nutze, gilt dies als Zustimmung. Meine Einwilligung kann ich hier widerrufen. Weitere Informationen finde ich in der Datenschutzerklärung. Es ist ein Fehler aufgetreten. Bitte versuc… [+151 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Ekki Kern",
+            "title": "Warum jetzt die Stunde Null der Banken ist",
+            "description": "Open-Banking-Ökosysteme, neue Technologien und steigende Kundenanforderungen fordern etablierte Banken heraus. Zur Erhebung des Status quo hat Capgemini Kunden und Bankfachleute befragen lassen. Wie entwickelt sich das traditionelle Bankengeschäft im Angesich…",
+            "url": "https://t3n.de/news/banken-report-capgemini-1112093/",
+            "urlToImage": "https://assets.t3n.sc/news/wp-content/uploads/2018/04/commerzbank.jpg?auto=compress%2Cformat&fit=crop&fm=jpg&h=630&ixlib=php-1.1.0&q=65&w=1200&s=2253df9ba27eabd36d300c001a69da12",
+            "publishedAt": "2018-09-21T06:01:10Z",
+            "content": "Open-Banking-Ökosysteme, neue Technologien und steigende Kundenanforderungen fordern etablierte Banken heraus. Zur Erhebung des Status quo hat Capgemini Kunden und Bankfachleute befragen lassen. Wie entwickelt sich das traditionelle Bankengeschäft im Angesich… [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Wirtschaftswoche",
+            "title": "Kryptowährung: Bitcoin verliert innerhalb von 14 Stunden mehr als 1000 Dollar",
+            "description": "Der Bitcoin ist am Donnerstag den zweiten Tag in Folge deutlich gefallen. Auch andere Kryptowährungen wie Ether befinden sich auf Talfahrt. Ein Grund dafür könnten die Kursänderung von Goldman Sachs sein.",
+            "url": "https://www.wiwo.de/finanzen/geldanlage/kryptowaehrung-bitcoin-verliert-innerhalb-von-14-stunden-mehr-als-1000-dollar/23003272.html",
+            "urlToImage": "https://www.wiwo.de/images/bitcoin-muenzen/23003290/2-format11240.jpg",
+            "publishedAt": "2018-09-06T07:49:00Z",
+            "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei veröffentlichen. Leider verweigern Sie uns diese Einnahmen. Wen… [+112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerbase.de"
+            },
+            "author": "André Reinhardt",
+            "title": "GPU-Markt: Studie bescheinigt Ende des Mining-Booms",
+            "description": "Der Mining-Trend nimmt ab – und mit ihm die unverhältnismäßig hohe Nachfrage nach GPUs. Einer Marktforschungsstudie von Jon Peddie Research zufolge sind die Auslieferungen von AMD und Nvidia rückläufig. Dementsprechend sinkt der GPU-Marktanteil der beiden Kon…",
+            "url": "https://www.computerbase.de/2018-09/gpu-markt-studie-ende-mining-boom/",
+            "urlToImage": "https://pics.computerbase.de/8/4/4/8/6/article-opengraph.jpg",
+            "publishedAt": "2018-09-03T18:26:00Z",
+            "content": "Der Mining-Trend nimmt ab – und mit ihm die unverhältnismäßig hohe Nachfrage nach GPUs. Einer Marktforschungsstudie von Jon Peddie Research zufolge sind die Auslieferungen von AMD und Nvidia rückläufig. Dementsprechend sinkt der GPU-Marktanteil der beiden Kon… [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Mike Orcutt",
+            "title": "Bitcoin soll grüner werden",
+            "description": "Bitcoins schürfen kostet Unmengen an Strom. Das Start-up Soluna hat ein neues Geschäftsmodell entwickelt, das die Blockchain mit sauberer Energiegewinnung kombiniert.",
+            "url": "https://www.heise.de/tr/artikel/Bitcoin-soll-gruener-werden-4153190.html?wt_mc=rss.tr.beitrag.atom",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/tr/imgs/08/2/4/9/3/7/1/7/oldwindpower_700-bfa4d69331c4aeda.png",
+            "publishedAt": "2018-09-05T04:01:14Z",
+            "content": "Bitcoins schürfen kostet Unmengen an Strom. Das Start-up Soluna hat ein neues Geschäftsmodell entwickelt, das die Blockchain mit sauberer Energiegewinnung kombiniert. Bitcoin und Co. sind keineswegs sauber – im Gegenteil: Die Kryptowährungen entwickeln sich a… [+4195 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Felix Holtermann",
+            "title": "Coin und Co: Die Krypto-Kolumne: „Die Zeit ist noch nicht reif“",
+            "description": "Die schwedische SEB-Bank arbeitet mit Ripple zusammen, einem der renommiertesten Anbieter von Blockchain-Lösungen. Aber noch zögert sie, Kryptowährungen einzusetzen.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/coin-und-co-die-krypto-kolumne-die-zeit-ist-noch-nicht-reif/23099558.html",
+            "urlToImage": "https://www.handelsblatt.com/images/1/20972320/4-format2003.png",
+            "publishedAt": "2018-09-21T15:02:38Z",
+            "content": "Frankfurt Wohin steuert der Bitcoin – und mit ihm die vielen anderen Kryptowährungen? Einschätzungen, Hintergründe und Anekdoten gibt es jede Woche von den Handelsblatt-Redakteuren Astrid Dörner, Felix Holtermann und Frank Wiebe in unserer Krypto-Kolumne „Coi… [+5279 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": "Sabrina Frangos",
+            "title": "Während du schliefst: SurveyMonkey geht an die Börse",
+            "description": "Das Online-Umfrageunternehmen gibt Details zum Börsengang bekannt. Außerdem:  Startup Lendstar stellt Insolvenzantrag. Und dApps:  Stockt die Disruption?",
+            "url": "https://www.gruenderszene.de/business/surveymonkey-geht-an-die-boerse",
+            "urlToImage": "http://www.gruenderszene.de/wp-content/uploads/2018/08/surveymonkey_screenshot-e1535590249985.jpg",
+            "publishedAt": "2018-08-29T22:52:29Z",
+            "content": "Guten Morgen! Während ihr geschlafen habt, ging andernorts die Arbeit in der Digitalszene weiter. Die Top-Themen: Nach 19 Jahren im Geschäft geht es an die Börse: SurveyMonkey legt weitere Details zu seinem Börsengang, der von JP Morgan geleitet wird, offen. … [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Orf.at"
+            },
+            "author": null,
+            "title": "Bitcoin weiter auf Sturzflug",
+            "description": "Kryptowährungen wie Bitcoin sind heute den zweiten Tag in Folge deutlich gefallen. Bitcoin als bekannteste und älteste Digitalwährung fiel in der Nacht auf der Handelsplattform Bitstamp um etwa 9,5 Prozent auf bis zu 6.253 US-Dollar (5.399 Euro).Gestern hatte…",
+            "url": "https://orf.at/stories/3005961/",
+            "urlToImage": "https://ibs.orf.at/news?image=https%3A%2F%2Forf.at%2Fmojo%2F1_4%2Fstoryserver%2Fnews%2Fcommon%2Fimages%2Fog-fallback-news.png%3Fs%3Dcdfa7fdb2f88a2c78d2c7093987ac49c267d5b43",
+            "publishedAt": "2018-09-06T08:14:16Z",
+            "content": "Kryptowährungen wie Bitcoin sind heute den zweiten Tag in Folge deutlich gefallen. Bitcoin als bekannteste und älteste Digitalwährung fiel in der Nacht auf der Handelsplattform Bitstamp um etwa 9,5 Prozent auf bis zu 6.253 US-Dollar (5.399 Euro). Gestern hatt… [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Werner Grundlehner, Werner Grundlehner",
+            "title": "Tezos und andere Problemfälle im Krypto-Valley",
+            "description": "In der Region um Zug haben Firmen wie Tezos und Envion mittels ICO viel Geld aufgenommen. Das lief nicht immer problemlos und könnte sich für die Region zum Reputationsrisiko entwickeln.",
+            "url": "https://www.nzz.ch/finanzen/tezos-und-andere-problemfaelle-im-krypto-valley-ld.1414665",
+            "urlToImage": "https://img.nzz.ch/C=W2384,H1251.6,X0,Y187.7/S=W1200M,H630M/O=75/C=AR1200x630/https://nzz-img.s3.amazonaws.com/2018/8/26/8dd15f2b-209d-42be-b9d6-268e03aed1b2.jpeg?wmark=nzz",
+            "publishedAt": "2018-08-27T05:00:00Z",
+            "content": "Es ist ruhig geworden um die Tezos Foundation aus Zug. Und das ist ein gutes Zeichen für das Blockchain-Projekt. Lange gab es nur Negativschlagzeilen – und das weltweit. Im Juli 2017 sammelte das US-Ehepaar Arthur und Kathleen Breitman 232 Mio. $ in einem Ini… [+7788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "l+f: Angela Merkel hat es auf Ihre Dateien abgesehen",
+            "description": "Die etwas andere Kampagne von Bundeskanzlerin Angela Merkel.",
+            "url": "https://www.heise.de/security/meldung/l-f-Angela-Merkel-hat-es-auf-Ihre-Dateien-abgesehen-4167460.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/5/0/3/7/0/2/20180918-ransomware-11-0203de942acc71aa.png",
+            "publishedAt": "2018-09-18T14:19:21Z",
+            "content": "(Bild: McAfee ) Die etwas andere Kampagne von Bundeskanzlerin Angela Merkel. Schluss mit merkeln, jetzt werden Dateien verschlüsselt und Lösegeld eingefordert. Sicherheitsforscher von McAfee sind auf einen Windows-Verschlüsselungstrojaner gestoßen, der behaup… [+645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stern.de"
+            },
+            "author": "stern TV",
+            "title": "Fake-Mails im Umlauf: Hacker behaupten, Aufnahmen von Leuten beim Pornokonsum zu verbreiten - und haben Erfolg",
+            "description": "Beim Pornos anschauen erwischt worden? Das zumindest behaupten erpresserische E-Mails, die derzeit massenweise im Umlauf sind. Wer nicht will, dass die pikanten Informationen an Freunde und Verwandte geschickt werden, soll zahlen. Was steckt dahinter?",
+            "url": "https://www.stern.de/tv/hacker-behaupten--bilder-von-nutzern-beim-onanieren-zu-verbreiten---und-haben-erfolg-8232536.html",
+            "urlToImage": "https://image.stern.de/7974568/16x9-1200-675/d23c56f9b9906b69077b8392e87ab127/Sq/porno-auf-pc.jpg",
+            "publishedAt": "2018-08-29T10:41:41Z",
+            "content": "Es ist momentan das Riesenthema in der Welt der Online-Abzocke. Seit Monaten versuchen Kriminelle durch Erpresser -Mails die Scham ihrer Opfer auszunutzen: Sie behaupten in einer Mail, mit Hilfe eines Trojaner die Webcam des Opfers gehackt zu haben und sie od… [+1800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tagesschau.de"
+            },
+            "author": "tagesschau.de",
+            "title": "Fake-Shops im Internet: Teure Schnäppchen",
+            "description": "Sie locken mit günstigen Preisen und scheinbar einfacher Bezahlweise: Fake-Shops im Internet werden immer professioneller. Millionen Deutsche sind bereits betrogen worden. Von Stefan Rall und Nick Schader.",
+            "url": "https://www.tagesschau.de/wirtschaft/fakeshops-101.html",
+            "urlToImage": "https://www.tagesschau.de/multimedia/bilder/online-shopping-105~_v-videowebm.jpg",
+            "publishedAt": "2018-08-26T22:41:34Z",
+            "content": "Sie locken mit günstigen Preisen und scheinbar einfacher Bezahlweise: Fake-Shops im Internet werden immer professioneller. Millionen Deutsche sind bereits betrogen worden. Von Stefan Rall und Nick Schader, SWR Das Ehepaar Loth aus der Pfalz war vor einigen Wo… [+6777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "N-tv.de"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "Kryptowährungen brechen ein: Bitcoin fällt unter 7000 US-Dollar",
+            "description": "Innerhalb kürzester Zeit fällt der Kurs des Bitcoin um fünf Prozent - und auch andere digitale Zahlungsmittel geraten in einen Abwärtsstrudel. Ursache dafür könnten Gerüchte sein, wonach Goldman Sachs seine Pläne für den Krypto-Handel begraben will.",
+            "url": "https://www.n-tv.de/wirtschaft/Bitcoin-faellt-unter-7000-US-Dollar-article20608645.html",
+            "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop20239411/5501326457-cImg_16_9-w1200/AP-17361446234657.jpg",
+            "publishedAt": "2018-09-05T17:34:59Z",
+            "content": "Wirtschaft Innerhalb kürzester Zeit fällt der Kurs des Bitcoin um fünf Prozent - und auch andere digitale Zahlungsmittel geraten in einen Abwärtsstrudel. Ursache dafür könnten Gerüchte sein, wonach Goldman Sachs seine Pläne für den Krypto-Handel begraben will… [+1362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "Chrome-Erweiterung des Filehosters Mega mit Malware verseucht",
+            "description": "Die Chrome-Erweiterung des Dienstes Mega wurde manipuliert und sammelt Zugangsdaten etwa von Amazon sowie private Schlüssel für Kryptowährungen ein.",
+            "url": "https://www.heise.de/security/meldung/Chrome-Erweiterung-des-Filehosters-Mega-mit-Malware-verseucht-4155489.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/5/3/3/5/tigerlily713-82c460162e976fb4.jpeg",
+            "publishedAt": "2018-09-05T12:12:36Z",
+            "content": "(Bild: tigerlily713) Die Chrome-Erweiterung des Dienstes Mega wurde manipuliert und sammelt Zugangsdaten etwa von Amazon sowie private Schlüssel für Kryptowährungen ein. Wer die Erweiterung des Filehosters Mega für Chrome nutzt, sollte sie zügig deinstalliere… [+1217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurezone.at"
+            },
+            "author": "futurezone.at",
+            "title": "Die aktuell stärkste Kryptowährung ist ein Witz",
+            "description": "Während Bitcoin und Ether abstürzen, feiert eine andere Kryptowährung weiterhin ein Kursfeuerwerk.",
+            "url": "https://futurezone.at/b2b/die-aktuell-staerkste-kryptowaehrung-ist-ein-witz/400116425",
+            "urlToImage": "https://image.futurezone.at/images/facebook/2806544/46-65821181.jpg",
+            "publishedAt": "2018-09-12T14:47:43Z",
+            "content": "Hobby-Entwickler haben inzwischen einen Weg gefunden, um Dogecoin mit &amp;#10; Ethereum zu vernetzen, wodurch sie st&amp;#228;rker mit der Interoperabilit&amp;#228;t verschiedener Kryptow&amp;#228;hrungen experimentieren k&amp;#246;nnen. Der Erfinder der Dig… [+1185 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Jürgen Röder",
+            "title": "Analyse zur Tesla-Aktie: Auf welchen Warnhinweis Tesla-Aktionäre achten sollten",
+            "description": "Der Aktienkurs des Autoherstellers ist um 30 Prozent gefallen. Bislang signalisierte ein solches Abrutschen neue Einstiegschancen. Doch dieses Mal könnte es anders kommen.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/markt-am-mittag-auf-welchen-warnhinweis-tesla-aktionaere-achten-sollten/22993400.html",
+            "urlToImage": "https://www.handelsblatt.com/images/tesla-chef-elon-musk/22993412/2-format2003.jpg",
+            "publishedAt": "2018-09-04T12:20:00Z",
+            "content": "Düsseldorf „Der Glaube versetzt Berge“, lautet ein altes Sprichwort. Börsianer kennen diesen Satz, oftmals aus leidvoller Erfahrung. So hat der Glaube an die vielversprechende Zukunft des Internets die Aktienkurse zur Jahrtausendwende auf ungeahnte Höhen getr… [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": null,
+            "title": "Devisen: Kryptowährungen unter Druck – Bitcoin fällt wieder unter 7000 Dollar",
+            "description": "Berichte über gestoppte Planungen einer Goldman-Sachs-Handelsplattform für Kryptowährungen lassen die Kurse von Bitcoin und Co. wieder fallen.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/devisen-kryptowaehrungen-unter-druck-bitcoin-faellt-wieder-unter-7000-dollar/22999866.html",
+            "urlToImage": "https://www.handelsblatt.com/images/bitcoin/22999946/4-format2003.jpg",
+            "publishedAt": "2018-09-05T14:13:16Z",
+            "content": "Frankfurt/Main Die Kurse vieler Kryptowährungen sind am Mittwoch binnen kurzer Zeit stark gefallen. Der Wert Bitcoin-Einheit – der bekanntesten digitalen Währung – gab um gut fünf Prozent nach und fiel auf führenden Handelsplattformen wie Bitstamp oder Bitfin… [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": null,
+            "title": "Kryptowährungen im Check: „1000 Dollar abwärts? Beim Bitcoin gab es Schlimmeres“",
+            "description": "Innerhalb von Stunden brach der Bitcoin-Kurs diese Woche massiv ein. Finanzredakteur Felix Holtermann spricht über die Vorteile des Kursrutsches.",
+            "url": "https://www.handelsblatt.com/video/live/kryptowaehrungen-im-check-1000-dollar-abwaerts-beim-bitcoin-gab-es-schlimmeres/23010818.html",
+            "urlToImage": "https://www.handelsblatt.com/images/1000-dollar-abwaerts-beim-bitcoin-gab-es-schlimmeres/23010898/4-format2003.jpg",
+            "publishedAt": "2018-09-08T08:48:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stern.de"
+            },
+            "author": null,
+            "title": "Schäuble warnt vor weiteren Risiken für die Finanzstabilität",
+            "description": "Zehn Jahre nach dem Ausbruch der Finanzkrise sieht Bundestagspräsident Wolfgang Schäuble (CDU) keinen Grund für eine Entwarnung und Lockerung der Regulierung.",
+            "url": "https://www.stern.de/news/schaeuble-warnt-vor-weiteren-risiken-fuer-die-finanzstabilitaet--8357698.html",
+            "urlToImage": "https://image.stern.de/8352922/16x9-512-288/e8959f3f0a1fbf9d80f270523f8a1883/Jc/14--schaeuble-im-bundestag---e3963ffa6a600484.jpg",
+            "publishedAt": "2018-09-14T06:20:28Z",
+            "content": "Zehn Jahre nach dem Ausbruch der Finanzkrise sieht Bundestagspräsident Wolfgang Schäuble (CDU) keinen Grund für eine Entwarnung und Lockerung der Regulierung. Die Bank für Internationalen Zahlungsausgleich mahne, dass \"die enorm hohe Liquidität allerorten die… [+961 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": null,
+            "title": "Erste staatliche Kryptowährung: „Superman“-Kryptowährung Petro wird zum Superflop",
+            "description": "Die neue venezolanische Kryptowährung „Petro“ sollte die Wirtschaft des Landes stabilisieren – allerdings ist die digitale Währung nicht auffindbar.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/erste-staatliche-kryptowaehrung-superman-kryptowaehrung-petro-wird-zum-superflop/23009238.html",
+            "urlToImage": "https://www.handelsblatt.com/images/nicolas-maduro/23009302/2-format2003.jpg",
+            "publishedAt": "2018-09-07T09:45:58Z",
+            "content": "Atapirire Er soll nicht nur die darniederliegende Wirtschaft Venezuelas retten. Nach den Worten von Staatspräsident Nicolas Maduro ist der „Petro“ sogar stark genug, um es mit dem Comic-Helden Superman aufzunehmen. Rund ein halbes Jahr nach seiner offiziellen… [+3826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Winfuture.de"
+            },
+            "author": "Christian Kahle",
+            "title": "XBash: Über-Malware greift Windows und Linux gleichzeitig an",
+            "description": "Sicherheitsforscher sind auf eine neue Malware aufmerksam geworden, deren Entwickler wohl die sprichwörtliche eierlegende Wollmilchsau schaffen wollten. Die Software vereint nicht nur die Eigenschaften verschiedener Schädlingsklassen in sich, sondern greift a…",
+            "url": "http://winfuture.de/news,105109.html",
+            "urlToImage": "https://img.winfuture.de/teaser/660/5579.1.jpg",
+            "publishedAt": "2018-09-18T10:38:00Z",
+            "content": "Sicherheitsforscher sind auf eine neue Malware aufmerksam geworden, deren Entwickler wohl die sprichwörtliche eierlegende Wollmilchsau schaffen wollten. Die Software vereint nicht nur die Eigenschaften verschiedener Schädlingsklassen in sich, sondern greift a… [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurezone.at"
+            },
+            "author": "futurezone.at",
+            "title": "Kryptowährungen unter Druck: Bitcoin fiel unter 7.000 US-Dollar",
+            "description": "Ether und Eos gerieten am Mittwoch noch stärker unter Druck und verloren teils über ein Zehntel an Wert.",
+            "url": "https://futurezone.at/b2b/kryptowaehrungen-unter-druck-bitcoin-fiel-unter-7000-us-dollar/400109891",
+            "urlToImage": "https://image.futurezone.at/images/facebook/2598745/46-108467514.jpg",
+            "publishedAt": "2018-09-05T12:50:52Z",
+            "content": "Andere &amp;#10; &amp;#10; Kryptow&amp;#228;hrungen wie Ether oder Eos gerieten noch st&amp;#228;rker unter Druck und verloren teilweise &amp;#252;ber ein Zehntel ihres Werts.&amp;#10;&amp;#10; Auf und Ab f&amp;#252;r Kryptomarkt &amp;#10;&amp;#10; Ein konkre… [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pctipp.ch"
+            },
+            "author": null,
+            "title": "In Berner Bar kann der Kaffee mit Bitcoin bezahlt werden",
+            "description": "Kunden können nun in der Kaffeebar Energy Kitchen im Berner Kult-Warenhaus Loeb Getränke und Snacks über das Bitcoin Lightning Network bezahlen.",
+            "url": "http://www.pctipp.ch/news/software/artikel/in-berner-bar-kann-der-kaffee-mit-bitcoin-bezahlt-werden-90554/",
+            "urlToImage": "http://www.pctipp.ch/fileadmin/media/bilder/teaser/Loebecken_Self_Order_Point_w915_h571_Teaser.jpg",
+            "publishedAt": "2018-09-20T07:02:37Z",
+            "content": "In der Kaffeebar Energy Kitchen im Berner Kult-Warenhaus Loeb kann neuerdings mit Bitcoin bezahlt werden. Möglich macht dies ein neues Bedienkonzept, das dort von Puzzle ITC eingerichtet wurde. Speziell daran ist, dass die Transaktionen über das Lightning Net… [+909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Derstandard.at"
+            },
+            "author": "redaktion@derStandard.at (derStandard.at Redaktion)",
+            "title": "Kryptowährungen - Experte: Bitcoin-Markt \"ist zum Erliegen gekommen\"",
+            "description": "Goldgräberstimmung ist vorerst vorbei, der Preis der Währung seit Jahresbeginn stark gesunken",
+            "url": "https://derstandard.at/2000086905221/Experte-Bitcoin-Markt-ist-zum-Erliegen-gekommen?ref=rss",
+            "urlToImage": "https://at.staticfiles.at/img/meta/image_de_1200x600-b9f2242ebf.png",
+            "publishedAt": "2018-09-07T12:00:15Z",
+            "content": "Ich stimme der Verwendung von Cookies zu. Auch wenn ich diese Website weiter nutze, gilt dies als Zustimmung. Meine Einwilligung kann ich hier widerrufen. Weitere Informationen finde ich in der Datenschutzerklärung. Es ist ein Fehler aufgetreten. Bitte versuc… [+151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Morgenpost.de"
+            },
+            "author": "dpa",
+            "title": "Kryptowährungen unter Druck: Bitcoin fällt unter 7000 US-Dollar",
+            "description": "Die Kurse vieler Kryptowährungen sind am Mittwoch binnen kurzer Zeit stark gefallen. Der Wert einer Einheit des Bitcoin - der bekanntesten digitalen Währung - gab um gut 5 Prozent nach und fiel auf führenden Handelsplattformen wie Bitstamp oder Bitfinex unter…",
+            "url": "https://www.morgenpost.de/wirtschaft/article215259981/Bitcoin-faellt-unter-7000-US-Dollar.html",
+            "urlToImage": "https://img.morgenpost.de/img/incoming/crop215259979/2022601939-w820-cv16_9-q85/Der-Bitcoin-Kurs-ist-gefallen.jpg",
+            "publishedAt": "2018-09-05T12:57:08Z",
+            "content": "Frankfurt/Main. Die Kurse vieler Kryptowährungen sind am Mittwoch binnen kurzer Zeit stark gefallen. Der Wert einer Einheit des Bitcoin - der bekanntesten digitalen Währung - gab um gut 5 Prozent nach und fiel auf führenden Handelsplattformen wie Bitstamp ode… [+771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Morgenpost.de"
+            },
+            "author": "dpa",
+            "title": "Digitalwährungen geben nach: Bitcoin verliert innerhalb von 14 Stunden über 1000 Dollar",
+            "description": "Der Hype um den Bitcoin ist vorerst vorbei: Bei der Kryptowährung zeichnet sich jetzt ein starker Abwertstrend ab. Grund dürfte der ausbleibende Markteintritt sein.",
+            "url": "https://www.morgenpost.de/wirtschaft/steuern/article215266023/Bitcoin-verliert-innerhalb-von-14-Stunden-ueber-1000-Dollar.html",
+            "urlToImage": "https://img.morgenpost.de/img/incoming/crop215266021/0772601481-w820-cv16_9-q85/Weil-die-Einfuehrung-eines-boersengehandelten-Indexfonds-ETF-auf-Digitalwaehrungen-nicht-abzusehen-ist-verlieren-Anleger-das-Interesse-am-Bitcoin-und-anderen-Kryptowaehrungen.jpg",
+            "publishedAt": "2018-09-06T08:37:38Z",
+            "content": "Frankfurt/Main. Kryptowährungen wie der Bitcoin sind am Donnerstag (6. September) den zweiten Tag in Folge deutlich gefallen. Der Bitcoin als bekannteste und älteste Digitalwährung fiel in der Nacht auf Donnerstag auf der Handelsplattform Bitstamp um etwa 9,5… [+1161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Morgenpost.de"
+            },
+            "author": "dpa",
+            "title": "Kryptowährung unter Druck: Bitcoin verliert in 14 Stunden mehr als 1000 Dollar",
+            "description": "Wer Bitcoins in der digitalen Brieftasche hat, konnte sich noch vor kurzem auf der finanziellen Gewinnerseite sehen. Derzeit dürfte der Blick auf die Kurse jedoch eher für Stirnrunzeln sorgen.",
+            "url": "https://www.morgenpost.de/wirtschaft/article215265577/Bitcoin-verliert-in-14-Stunden-mehr-als-1000-Dollar.html",
+            "urlToImage": "https://img.morgenpost.de/img/incoming/crop215259979/4652601778-w820-cv16_9-q85/Der-Bitcoin-Kurs-ist-gefallen.jpg",
+            "publishedAt": "2018-09-06T07:18:14Z",
+            "content": "Frankfurt/Main. Kryptowährungen wie der Bitcoin sind den zweiten Tag in Folge deutlich gefallen. Der Bitcoin als bekannteste und älteste Digitalwährung fiel in der Nacht auf Donnerstag auf der Handelsplattform Bitstamp um etwa 9,5 Prozent auf bis zu 6253 US-D… [+1132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Morgenpost.de"
+            },
+            "author": "dpa",
+            "title": "Kriminalität: Bitcoins im Wert von Hunderttausenden Euro beschlagnahmt",
+            "description": "Die virtuelle Währung Bitcoin und anderes Cybergeld ist inzwischen auch in den Kassen des Landes Berlin angelangt. Allerdings kamen Bitcoins und Ripple im Wert von insgesamt 649 000 Euro über die sogenannte Vermögensabschöpfung bei Kriminellen an das Land. Da…",
+            "url": "https://www.morgenpost.de/berlin/article215193077/Bitcoins-im-Wert-von-Hunderttausenden-Euro-beschlagnahmt.html",
+            "urlToImage": "https://img.morgenpost.de/img/incoming/crop215193075/4222604884-w820-cv16_9-q85/Bitcoin-Muenzen-.jpg",
+            "publishedAt": "2018-08-28T04:43:51Z",
+            "content": "Berlin. Die virtuelle Währung Bitcoin und anderes Cybergeld ist inzwischen auch in den Kassen des Landes Berlin angelangt. Allerdings kamen Bitcoins und Ripple im Wert von insgesamt 649 000 Euro über die sogenannte Vermögensabschöpfung bei Kriminellen an das … [+817 chars]"
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Felix Holtermann",
+            "title": "Markt-Analyse: Welche Anleger nach dem jüngsten Bitcoin-Kursrutsch einsteigen können – und welche nicht",
+            "description": "Der Crash bei Bitcoin und Co. ähnelt inzwischen dem Platzen der Dotcom-Blase. Und doch liegen manche Anleger immer noch im Plus. Wie man am Kryptomarkt schlau investiert.",
+            "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/markt-analyse-welche-anleger-nach-dem-juengsten-bitcoin-kursrutsch-einsteigen-koennen-und-welche-nicht/23063474.html",
+            "urlToImage": "https://www.handelsblatt.com/images/bitcoin-logo/20462464/19-format2003.jpg",
+            "publishedAt": "2018-09-13T19:14:08Z",
+            "content": "Düsseldorf Wie bezeichnet man die Entwicklung einer Assetklasse, die innerhalb eines Jahres um 66 Prozent zulegt? Als „Schock“, als „schmerzhaften Realitäts-Check“, als „Scheitern“? Wohl kaum. Trotz dieser Kursgewinne herrschen solche Einschätzungen am Krypto… [+4629 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "BTC-ECHO",
+            "title": "- Die Marktkapitalisierung von Bitcoin – ein Richtwert",
+            "description": "Die Marktkapitalisierung von Bitcoin liegt am 3. September bei 125,2 Milliarden US-Dollar. Der Bitcoin-Kurs steht derzeit bei 7.262 US-Dollar, bei einem Gesamtvorrat von knapp 17,25 Millionen Bitcoin. Doch was sagt dieser Wert eigentlich über das Bitcoin-Ökos…",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/die-marktkapitalisierung-von-bitcoin-ein-richtwert_id_9526900.html",
+            "urlToImage": "https://p5.focus.de/img/kryptowaehrungen/crop9526899/1532719958-w1200-h627-o-q75-p5/compressed-bc743ebb-3e03-40e5-a165-c43153fea741bitcoin-marktkapitalisierung-ballon-609143309.jpg",
+            "publishedAt": "2018-09-04T03:36:00Z",
+            "content": "Der Begriff „Marktkapitalisierung“ ist – wie so vieles im Bitcoin -Ökosystem – der Finanzwelt entlehnt. Im Prinzip ist er einfach erklärt: Es wird damit der Wert des Eigenkapitals einer Aktiengesellschaft an der Börse bezeichnet. Dabei kommt folgende Formel z… [+1995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diepresse.com"
+            },
+            "author": null,
+            "title": "Schäuble: \"Wir werden nie sagen können: Alles ist gut\"",
+            "description": "Der deutsche Bundestagspräsident und frühere Finanzminister Wolfgang Schäuble warnt zehn Jahre nach der Lehman-Pleite vor anhaltenden Risiken auf den Finanzmärkten. Es gebe keinen Grund für eine Entwarnung.",
+            "url": "https://diepresse.com/home/wirtschaft/boerse/5496304/Schaeuble_Wir-werden-nie-sagen-koennen_Alles-ist-gut",
+            "urlToImage": "https://media.diepresse.com/social_diepresse/images/uploads_1200/d/f/0/5496304/Lower-house-of-parliament-Bundestag-2019-budget-debate-in-Berlin_1536906276233352.jpg",
+            "publishedAt": "2018-09-14T06:20:00Z",
+            "content": "Berlin. Zehn Jahre nach Ausbruch der Finanzkrise sieht Deutschlands Bundestagspräsident Wolfgang Schäuble (CDU) keinen Grund für eine Entwarnung und Lockerung der Regulierung. \"Wir werden eben nie einen Zustand erleben, in dem wir sagen können: Alles ist gut\"… [+834 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Fool.de",
+            "title": "Kryptowährung Bitcoin - Warum gibt es noch keine Bitcoin ETFs?",
+            "description": "2018 war ein bislang richtiggehend lausiges Jahr für Kryptowährungen, da die Bitcoin-Preise wieder unter das wichtige Niveau von 10.000 US-Dollar pro Coin gefallen sind.",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/kryptowaehrung-bitcoin-warum-gibt-es-noch-keine-bitcoin-etfs_id_9625605.html",
+            "urlToImage": "https://p5.focus.de/img/fotos/crop9540984/3022715892-w1200-h627-o-q75-p5/urn-newsml-dpa-com-20090101-180906-99-844665-large-4-3.jpg",
+            "publishedAt": "2018-09-20T13:58:00Z",
+            "content": "Diese Hürde hat vergangenes Jahr der Währung so viel Tamtam eingebracht. Das hat die Krypto-Investoren allerdings nicht davon abgehalten, nach mehr und besseren Möglichkeiten zu suchen, um in Bitcoin und andere Token zu investieren. Viele haben sich gewünscht… [+5491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Olivia von Westernhagen",
+            "title": "Datenleck bei Mortal Online: Kriminelle boten 500.000 Nutzeraccounts zum Kauf an",
+            "description": "Dass die Mehrfachnutzung von Passwörtern eine ebenso schlechte Idee ist wie deren Speicherung als MD5-Hashes, zeigt ein Datenleak beim MMORPG Mortal Online.",
+            "url": "https://www.heise.de/security/meldung/Datenleck-bei-Mortal-Online-Kriminelle-boten-500-000-Nutzeraccounts-zum-Kauf-an-4154668.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/4/9/4/6/8/1/skull-782385_1280-1863bcf2712d1109.png",
+            "publishedAt": "2018-09-05T13:56:57Z",
+            "content": "(Bild: flegmatik95 ) Dass die Mehrfachnutzung von Passwörtern eine ebenso schlechte Idee ist wie deren Speicherung als MD5-Hashes, zeigt ein Datenleak beim MMORPG Mortal Online. Ein unabhängiger Sicherheitsforscher hat dem Passwort-Prüfdienst Have I Been Pwne… [+3585 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "mho.",
+            "title": "Börsenaufsicht lehnt drei Bitcoin-ETF ab",
+            "description": "Krypto-Anlagen haben es nicht leicht. Drei Anbieter scheiterten jetzt mit dem Versuch, ETFs auf Bitcoin aufzulegen, an der Börsenaufsicht.",
+            "url": "http://www.faz.net/aktuell/finanzen/digital-bezahlen/boersenaufsicht-lehnt-drei-bitcoin-etf-ab-15752473.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/finanzen/230202467/1.5425509/article_multimedia_overview/bitcoins-fuer-viele-anleger.jpg",
+            "publishedAt": "2018-08-23T15:03:48Z",
+            "content": "E ine der großen Hoffnungen der Anhänger von Bitcoin und Krypto-Anlagen ist noch immer die Zulassung eines börsengehandelten Investmentfonds (ETF) für diese Anlageklasse. Doch nachdem die amerikanische Börsenaufsicht SEC die Entscheidung über einen ETF des re… [+1077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "dpa",
+            "title": "Richter lässt Wertpapiergesetze bei Verfahren um Krypto-Emissionen zu",
+            "description": "Amerikas Behörden sind in ihrem Bestreben zur Regulierung von Krypto-Anlagen wie Bitcoin oder Ethereum einen Schritt weitergekommen.",
+            "url": "http://www.faz.net/aktuell/finanzen/finanzmarkt/richter-laesst-wertpapiergesetze-bei-verfahren-um-krypto-emissionen-zu-15783664.html",
+            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/finanzen/111717033/1.5784310/article_multimedia_overview/kryptoanlagen-wie-bitcoin-oder.jpg",
+            "publishedAt": "2018-09-12T11:55:21Z",
+            "content": "E in Bundesrichter im New Yorker Stadtbezirk Brooklyn entschied in einem Strafverfahren am Dienstag, dass amerikanische Wertpapiergesetze bei sogenannten Initial Coin Offerings (ICOs) - der Neuemission von Kryptogeldern - zur Anwendung kommen könnten. In dem … [+1116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "ala./Reuters",
+            "title": "Die EZB plant derzeit keine Digitalwährung, sagt Mario Draghi",
+            "description": "Digitalanlagen wie der Bitcoin breiten sich aus. Sollen auch Notenbanker die dahinterstehende Techniken nutzen für eigene Instrumente?",
+            "url": "http://www.faz.net/aktuell/finanzen/die-ezb-plant-derzeit-keine-digitalwaehrung-sagt-mario-draghi-15788103.html",
+            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/wirtschaft/738372085/1.5788130/article_multimedia_overview/die-europaeische-zentralbank.jpg",
+            "publishedAt": "2018-09-14T13:50:25Z",
+            "content": "D ie Europäische Zentralbank verfolgt aktuell keine Pläne für eine eigene Digitalwährung. Dies schrieb EZB-Chef Mario Draghi in einem Brief an einen Europa-Abgeordneten. Die möglichen Folgen, die eine solche Währung als Ergänzung zu Bargeld haben könnten, wür… [+977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Gerald Hosp, Gerald Hosp",
+            "title": "Sind die US-Sanktionen ein Bumerang für die Leitwährung Dollar?",
+            "description": "Präsident Donald Trump setzt wie kein anderer Amtsinhaber im Weissen Haus vor ihm Wirtschaftssanktionen und Zölle ein, um US-Interessen durchzusetzen. Der Ruf nach einem von den USA unabhängigen Zahlungssystem wird wieder laut. In manchen Ländern werden Pläne…",
+            "url": "https://www.nzz.ch/wirtschaft/sind-die-us-sanktionen-ein-bumerang-fuer-die-leitwaehrung-dollar-ld.1417691",
+            "urlToImage": "https://img.nzz.ch/C=W3500,H1837.5,X0,Y65.75/S=W1200M,H630M/O=75/C=AR1200x630/https://nzz-img.s3.amazonaws.com/2018/9/5/c7c6296c-2808-47b8-92c1-f172695d509d.jpeg?wmark=nzz",
+            "publishedAt": "2018-09-06T05:00:00Z",
+            "content": "Donald Trump ist nicht der erste amerikanische Präsident, der Wirtschaftssanktionen und die Verhängung von Zöllen nutzt, um andere Länder die Macht der Vereinigten Staaten spüren zu lassen. Bereits seit den 1990er Jahren stützt sich Washington vermehrt auf Sa… [+8368 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "BTC-ECHO",
+            "title": "Edelmetall und Digitalwährung - Goldschürfen vs. Bitcoin-Mining: Ein sinnvoller Vergleich?",
+            "description": "Bitcoin-Mining verbraucht (anscheinend) weniger Energie als Goldschürfen. Macht das Bitcoin zur besseren Wertanlage? Ja und nein.",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/edelmetall-und-digitalwaehrung-goldschu-rfen-vs-bitcoin-mining-ein-sinnvoller-vergleich_id_9601708.html",
+            "urlToImage": "https://p5.focus.de/img/fotos/crop9414854/4982716115-w1200-h627-o-q75-p5/urn-newsml-dpa-com-20090101-180814-99-546980-large-4-3.jpg",
+            "publishedAt": "2018-09-18T06:36:00Z",
+            "content": "LongHash, ein Medienhaus und Inkubator für Blockchain-Start-ups, hat kürzlich eine Analyse über Bitcoins Mining-Kosten publiziert. In dieser vergleichen LongHashs Analysten die Mining-Kosten zwischen Bitcoin-Mining und Goldschürfen. Die Autoren argumentieren,… [+3780 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "BTC-ECHO",
+            "title": "- Goldschürfen vs. Bitcoin-Mining: Ein sinnvoller Vergleich?",
+            "description": "Bitcoin-Mining verbraucht (anscheinend) weniger Energie als Goldschürfen. Macht das Bitcoin zur besseren Wertanlage? Ja und nein.",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/goldschu-rfen-vs-bitcoin-mining-ein-sinnvoller-vergleich_id_9601708.html",
+            "urlToImage": "https://p5.focus.de/img/kryptowaehrungen/crop9601707/3892714709-w1200-h627-o-q75-p5/compressed-60a09676-5f16-4821-88b7-dd2d488a9429shutterstock-537303439.jpg",
+            "publishedAt": "2018-09-17T03:36:01Z",
+            "content": "LongHash, ein Medienhaus und Inkubator für Blockchain-Start-ups, hat kürzlich eine Analyse über Bitcoins Mining-Kosten publiziert. In dieser vergleichen LongHashs Analysten die Mining-Kosten zwischen Bitcoin-Mining und Goldschürfen. Die Autoren argumentieren,… [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "BTC-ECHO",
+            "title": "- Bitcoin-Cash-Stresstest: Geringe Gebühren bei hohen Transaktionen",
+            "description": "Bitcoin Cash: Was kann der kleine Stiefcousin von Bitcoin? Mit dem Bitcoin-Cash-Stresstest wollten Mitglieder der Community das herausfinden. So versuchen sie mit dem Stresstest potentielle Nutzer – also vor allem Händler und Unternehmen von der Wertigkeit de…",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/bitcoin-cash-stresstest-geringe-gebuehren-bei-hohen-transaktionen_id_9532101.html",
+            "urlToImage": "https://p5.focus.de/img/kryptowaehrungen/crop9532100/8532716051-w1200-h627-o-q75-p5/compressed-36b9315d-ffae-41d0-b21e-28f09bb4bb7fbitcoin-cash-stresstest.jpg",
+            "publishedAt": "2018-09-04T15:36:00Z",
+            "content": "Bitcoin Cash konnte seit seinem ersten Auftritt in der Kryptowelt nicht gänzlich aus dem Schatten Bitcoins heraustreten. Immer wieder stellt die Community Vergleiche an, immer mehr Innovationen sollen zeigen, dass Bitcoin Cash einfach besser ist als Bitcoin. … [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "BTC-ECHO",
+            "title": "- „Bitcoin-ETF kommt von allein“ – Roger Ver exklusiv im Interview",
+            "description": "Roger Ver gilt als Early Adopter, er war schon zu Beginn im Bitcoin-Netzwerk dabei. BTC-ECHO traf ihn auf der Blockchain Cruise persönlich zum Interview. Der Bitcoin-Cash-Verfechter über Bitcoin, das Lightning Network, Bitcoin Cash, ETF, individuelle Freiheit…",
+            "url": "https://www.focus.de/finanzen/boerse/kryptowaehrungen/bitcoin-etf-kommt-von-allein-roger-ver-exklusiv-im-interview_id_9564956.html",
+            "urlToImage": "https://p5.focus.de/img/kryptowaehrungen/crop9564955/6412716898-w1200-h627-o-q75-p5/compressed-cf2da371-6ede-42e6-86dc-b742220be48froger-ver-sven-wagenknecht.jpg",
+            "publishedAt": "2018-09-10T14:16:02Z",
+            "content": "Bobby Lee hat in seiner Keynote-Speech bestätigt, dass Bitcoin Cash seiner Meinung nach näher an Satoshis ursprünglicher Vision des Bitcoin ist. Das versuchst auch du der Community seit einem Jahr näherzubringen. Erkläre unseren Lesern doch einmal deine Gründ… [+4583 chars]"
+        }
+    ]
