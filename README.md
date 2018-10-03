@@ -1,5 +1,7 @@
 # Language detection
 
+This project aims to detect the language of a text with simple ML techniques
+
 For this project, I will use 6 different languages for the first implementation : en, de, fr, ru, es, nl
 
 I can get around 100 articles for each of these languages and I've chosen getting articles about bitcoin on the website newsapi.org
